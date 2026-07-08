@@ -1,0 +1,1018 @@
+===== PAGE 1 =====
+doi:10.12006/j.issn.1673-1719.2017.161
+姜彤, 赵晶, 曹丽格, 等. 共享社会经济路径下中国及分省经济变化预测 [J]. 气候变化研究进展, 2018, 14 (1): 50-58
+共享社会经济路径下中国及分省经济变化预测
+姜  彤1,2，赵  晶1，曹丽格2，王艳君1，苏布达1,2,3，景  丞3，王  润4，高  超5
+1 南京信息工程大学气象灾害预报预警与评估协同中心/ 地理科学学院，
+ 南京 210044；
+2 中国气象局国家气候中心，北京100081；
+3 中国科学院新疆生态与地理研究所荒漠与绿洲生态国家
+  重点实验室，乌鲁木齐830011；
+4 湖北大学资源和环境学院，武汉430062；
+5 宁波大学地理与空间信息技术系，宁波 315211
+气候变化研究进展
+第14 卷 第1 期 
+2018 年1 月
+CLIMATE CHANGE RESEARCH
+Vol. 14  No. 1
+January  2018
+摘 要：基于中国历次人口和经济普查及逐年统计年鉴，率定柯布道格拉斯（Cobb-Douglas）经济预测模型的参数，依
+据共享社会经济路径（SSPs）框架情景，构建2020—2100 年中国31 个省（区、市）经济变化格点（0.5°×0.5°）数据
+库。未来中国经济呈现如下特点：(1) 沿可持续路径（SSP1）和不均衡路径（SSP4)，GDP 将呈现先增后降趋势，峰值
+出现在2070—2080 年；沿中间路径（SSP2）和化石燃料为主的发展路径（SSP5)，GDP 则呈现持续增长趋势；区域竞
+争路径（SSP3）下，2050 年以后GDP 增长处于停滞状态。(2) 无论采用何种路径，2020 年前GDP 仍旧保持6.0% 左右
+的增速，随后增速均低于5.0% 并出现放缓或停滞，甚至负增长态势。(3) 社会经济发展政策对中国分省经济增长产生
+直接影响。2020 年代SSP1 ～SSP5 路径下江苏、广东和山东省GDP 总量位列前三；2090 年代，SSP1 和SSP5 路径下
+广东、山东和江苏省GDP 总量依旧位列前三；SSP2 路径下，浙江位列第二；SSP3 路径下，河南跻身前三；SSP4 路径下，
+排名前三省份为广东、江苏和浙江省。(4) 2020 年代SSP1、SSP2 和SSP5 路径下，山东、浙江等省GDP 增速超过6.0%，
+SSP3 和SSP4 路径下仅广东和浙江省GDP 增速可维持5.0% 左右，个别省还出现负增长；2090 年代各省GDP 增速均
+降至不足1.0%。 
+关键词：共享社会经济路径（SSPs)；柯布道格拉斯预测模型；经济预测；分省；中国
+收稿日期：2017-08-22；修回日期：2017-09-02
+资助项目：国家重点研发计划项目（2017YFA0603701)；中国清洁发展机制（CDM）基金赠款项目；中国气象局气候变化专项“气候变化影响综
+          合评估”（CCSF201722）
+作者简介：姜彤，男，研究员，jiangtong@cma.gov.cn
+①世界银行http://data.worldbank.org/about/country-and-lending-groups。
+引 言
+近半个世纪以来，人口和经济的快速增长，使
+气候环境面临前所未有的巨大挑战。同时，人口和
+经济的发展也决定着气候变化对策和措施的选择，
+社会经济发展情景成为气候变化及气候变化影响研
+究的核心问题之一[1]。在早期古典经济学理论和凯
+恩斯宏观经济学理论基础上[2-3]，20 世纪中叶起，
+国际货币基金组织[4] 和世界银行[5] 等机构基于新经
+济增长理论开展了全球尺度经济预测研究，并发布
+年度报告。研究表明，2017 年全球经济增速预计将
+由2016 年的2.2% 加速至2.7%，2018—2019 年将
+进一步加速至2.9%。2017 年中国经济增速由2016
+年的6.7% 放缓至6.5%，2018—2019 年将进一步放
+缓至6.3%
+①。国内学者基于中国1960—2005 年经济
+增长速度，运用生产函数模型或系统动力学等方法，
+预测出2010—2030 年中国经济增速基本在6.0% 左
+右，2030—2050 年降至4.0% ～5.0%
+[6-8]。
+www.climatechange.cn
+气候变
+化
+影
+响
+
+===== PAGE 2 =====
+1 期 
+51
+姜彤，等：共享社会经济路径下中国及分省经济变化预测
+2000 年IPCC 发布的排放情景特别报告（SRES）
+中首次把温室气体排放与社会经济发展相关联[9]。
+社会经济情景描述辐射强迫和社会经济发展间的关
+系，在气候变化和气候政策的制定方面起着关键作
+用[10]。为了描述具有不同适应和减缓挑战的未来社
+会经济状况，2010 年IPCC 提出共享社会经济路径
+（shared socioeconomic pathways，SSPs）[11]，设计5
+种社会经济发展路径，以反映不同气候政策的可能
+后果。其中，SSP1 为可持续路径，具有相对高速的
+技术转化，政府和机构致力于实现发展目标和解决
+问题，减少气候变化的脆弱性因素；SSP2 为中间路
+径，维持现有发展速度，在能源和科技方面取得一
+些进展，发展中国家和工业化国家之间的收入差距
+慢慢缩小；SSP3 为区域竞争路径，每个国家专注于
+自身的能源和粮食安全，国际间合作弱，对技术发
+展和教育投入减少，使大量人口和经济容易受到气
+候变化影响且适应能力低，能源领域技术变革缓慢，
+带来大量的碳排放；SSP4 为不均衡路径，富裕的
+群体产生大部分的排放量，工业化国家和发展中国
+家的大量贫困群体排放较少且易受到气候变化的影
+响；SSP5 为化石燃料为主的发展路径，带来大量温
+室气体排放，面临较大减缓挑战，社会环境适应挑
+战较低[12-15]。
+国际应用系统分析研究所（IIASA)、德国波茨
+坦气候影响研究所（PIK）以及经济合作与发展组
+织（OECD）等机构开展了全球包括中国在内的190
+余个国家的经济发展预测[16-19]，认为采用不同的社
+会经济发展政策，在21 世纪中期全球GDP 最高与
+最低值可相差约10 万亿美元，21 世纪末期，相差
+约60 万亿美元。国际上关于中国经济的预测基于
+世界银行2000 年或2010 年发布的基础资料②，未
+考虑中国当前“二孩”政策带来的全员劳动参与率
+的改变及其对经济发展的可能影响。基于中国当前
+国情开展的不同气候政策下的人口变化预估表明，
+未来中国的劳动力与IIASA 经济预测采用的劳动力
+人口存在差距，未来经济预测应考虑人口政策变化
+带来的劳动力人口数量的改变[20]。
+不同SSPs 下的经济预测有益于将气候变化政
+策制定和经济发展问题相结合，可为应对气候变化
+风险措施的定制与实施提供科学支撑。本文根据中
+国历次人口和经济普查及各省（区、市）逐年统计
+数据，采用Cobb-Douglas 预测模型，构建21 世纪
+中国和31 个省（区、市）的经济格点数据库，研
+究中国及分省的经济变化，以期为国家和地方政府
+制定应对气候变化相关政策提供参考依据。
+1  预测模型与参数假设
+1.1  Cobb-Douglas 模型及参数率定
+Cobb-Douglas 经济预测模型由美国数学家Cobb
+和经济学家Douglas 于20 世纪初共同提出。该模型
+广泛地应用于全球和各国的GDP 预测研究[21-23]。模
+型表达式为：
+公式(1) 中，Y(t) 为t 年国内生产总值（GDP)，
+L 为劳动力投入量，K 为资本存量，α 为资本输
+出的弹性系数，选择2010 年全要素生产率初始年
+T(0)，λ 为科技进步水平。
+劳动力投入量（L）由工作年龄人口（W)，各
+年龄段劳动参与率（R）和教育程度（H）构成。劳
+动力投入量（L）计算公式为：
+公式(2) 中，q 为工作年龄人口，分为15 ～64
+岁和≥65 岁两组。2010 年15 ～64 岁人口的劳
+动参与率约为77%，≥65 岁人口的劳动参与率为
+19%。各省2010 年劳动参与率根据各省统计年鉴数
+据率定[24]。
+教育程度（H）的计算公式如下[25]：
+公式(3) 中，M2010 为2010 年平均受教育年限。
+②世界银行https://data.worldbank.org/indicator/NY.GDP.MKTP.KD。
+Y(t) = K(t)α L(t)
+1-αT(0)eλt。                  (1)
+L =     H × R(q) × W(q)。                   (2)
+Sq
+H = exp (0.134min (M2010, 4) + 0.101min (max  
+       (M2010 ‒ 4, 0), 4) + 0.068 max (M2010 ‒ 8, 0))。    (3) 
+www.climatechange.cn
+
+===== PAGE 3 =====
+根据中国第6 次人口普查数据，M2010 为9.04。
+全要素生产率（TFP）是指产量与全部要素投
+入量之比，也就是技术进步。采用索洛经济增长模
+型[26] 估算，中国2010 年TFP 为0.0218，与已有研
+究结果相吻合[27-28]。
+资本存量（K）指经济社会在某一时间点上的
+资本总量，是利用生产函数法对生产总值准确估计
+的重要变量。本文以1952 年为基准，运用永续盘存
+法[29]，按不变价格计算中国及各省（区、市）资本
+存量（K）[30]。计算公式如下：
+公式(4)中，d为折旧率，I为固定资本形成总额。
+经计算2010 年中国资本存量为1391975 亿元，同时
+可得到2010 年中国资本输出的弹性系数a = 0.36。
+1.2  SSPs 框架下经济预测情景假设
+为预测不同SSPs 路径下中国社会经济发展状
+况，对Cobb-Douglas 模型的劳动力投入量（L)、全
+要素生产率（T）和资本存量（K）等要素的相关参数，
+进行如下假设[16-18]。
+15 ～64 岁劳动力人口的R，SSP2 路径下维持
+现有发展，处于中等水平，为0.7 左右；SSP1 路径
+下人口总数小于SSP2，其相对高速的技术转化与大
+量科技设备的投入使该路径下的R 与SSP2 相当，
+收敛于0.7；SSP5 路径是以化石燃料为主的快速发
+展，高速的经济增长依赖于高的R，其值收敛于0.8
+左右；SSP3 路径下的劳动参与率则与SSP5 相反，
+低于历史平均值并收敛于0.6；SSP4 路径下的发
+展极不均衡，以缓慢的速度（400 年）达到一个长
+期稳定的R 水平，收敛于0.75，其他SSPs 路径的
+收敛时间均为100 年。≥65 岁人口R 假定保持在
+2010 年水平不变。结合不同SSPs 路径下各年龄段
+总人口数以及平均受教育年限[21]，可以得到未来的
+劳动力投入量（L)。
+按照世界银行的人均收入划分标准③，中国属
+于中等收入国家。SSPs 路径下中等收入国家的TFP
+Kt+1 = (1-d ) Kt + It。                      (4) 
+③世界银行http://data.worldbank.org/about/country-and-lending-groups。
+假设如表1 所示。中等假设代表了维持目前的科技
+进步水平，TFP 年均增长率为0.7%；高等假设参考
+了世界发达国家历史时期TFP 的增速变化，高/ 低
+发展水平分别较中等发展水平高/ 低50%
+[16-18]。不
+同SSPs 下，TFP 呈现不同的年均增长率。SSP1、
+SSP2、SSP4 情景下为0.70%；SSP3 情景下为0.35%；
+SSP5 情景下为1.05%。不同路径下TFP 增速的收敛
+速度存在差异，维持现状的SSP2 路径为中速收敛，
+拥有较高科技进步水平的SSP1 和SSP5 路径能较快
+追赶世界发达国家，SSP3 和SSP4 路径则需更久的
+时间才能达到。
+表1  SSPs 路径下中国全要素生产率（TFP）假设
+Table 1    Assumptions on total factor productivity (TFP) in 
+China under the five SSPs
+增长速度
+收敛速度
+TFP
+SSP1
+SSP2
+SSP3
+SSP4
+SSP5
+中
+高
+中
+中
+低
+低
+中
+低
+高
+高
+资本存量（K）与全要素生产率（T)、劳动力
+投入量（L）、资本输出的弹性系数（a）的变化见
+文献[17]。不同SSPs 下资本输出的弹性系数a 呈
+现不同的变化水平。SSP1 和SSP5 路径有着高层次
+的国际合作，SSP5 下相对更高，将会受到更多资本
+积累的影响，a 分别收敛于0.35 和0.45，收敛时间
+分别为75 年和250 年；SSP2 路径下，a 长期收敛
+于0.35，收敛到该水平的速度较缓慢，为150 年；
+SSP3 路径下，收敛速度也较慢，a 收敛于0.25 的时
+间为150 年；SSP4 路径下的国家经济为资本密集型
+的发展情景，a 收敛于0.30，收敛时间约为75 年。
+2  研究结果
+2.1  2011—2016 年统计和预测数据比较
+对比2011—2016 年中国和各省GDP 预测结果
+与统计资料，可以验证Cobb-Douglas 预测模型模拟
+效果。预测结果选用维持目前社会经济趋势的中间
+路径（SSP2）情景。统计资料显示，2011—2016 年
+气候变化研究进展
+ 2018 年
+52
+www.climatechange.cn
+气候变
+化
+影
+响
+
+===== PAGE 4 =====
+年平均GDP 为56.3 万亿元（2010 年价格，下同)，
+2011 年为46.9 万亿元，2016 年为64.5 万亿元。同
+期，模型预测的年均GDP 为56.9 万亿元，2011 年
+为47.2 万亿元，2016 年为65.0 万亿元。统计与预
+测数据的误差平均为3.0%，误差范围2.0% ～5.0%
+（图1a)。
+根据世界银行对人均收入的划分标准，31 个省
+可划分为高、中、低收入省份。选取广东、辽宁和
+宁夏分别作为高、中、低收入省份的代表。2011—
+2016 年广东、辽宁和宁夏三省统计的年均GDP 分
+别为5.9 万亿、2.4 万亿、0.2 万亿元；同期模型预
+测的年均GDP分别为6.0万亿、2.5万亿、0.2万亿元，
+预测与统计数据误差平均为6.0%（图1b)。上述结
+图1  2011—2016 年GDP 统计数据与SSP2 路径预测结果比较
+Fig. 1  Comparison of the recorded and projected annual GDP under SSP2 in 2011-2016
+果表明，Cobb-Douglas 预测模型适用于中国及分省
+经济预测，且模型参数的率定也合理。
+2.2  2020—2100 年中国GDP 总量和增速变化
+2000—2016 年，中国年均GDP 为35 万亿元。
+2000 年为12 万亿元，2016 年较2000 年增加了4 倍
+多，达到64 万亿元。
+21 世纪中国GDP 预测结果见图2 所示。SSP1
+和SSP4 路径下，GDP 呈先增加再缓慢下降的趋势，
+将在2080 年代和2070 年代左右分别达到250 万亿
+和200 万亿元峰值，较2016 年增加2 ～3 倍；SSP2
+和SSP5 路径下，GDP 呈现持续增加趋势，但SSP2
+路径在2050 年以后增速放缓，SSP5 路径下则保持
+2000—2016 年
+SSP1
+SSP2
+SSP3
+SSP4
+SSP5
+(a) GDP 总量
+(b) GDP 增速
+400
+GDP/ 万亿元
+350
+300
+250
+200
+150
+100
+50
+16
+14
+12
+0
+10
+8
+6
+4
+2
+0
+-2
+GDP 增速/% 
+2000
+2020
+2040
+2060
+2080
+2100 年
+2000
+2020
+2040
+2060
+2080
+2100 年
+图2  2000—2100 年中国GDP 总量(a) 和增速(b) 变化
+Fig. 2  GDP (a) and GDP growth rate (b) in China for 2000-2100
+66
+61
+56
+51
+46
+8
+6
+4
+2
+0
+2011
+2012
+2013
+2014
+2015
+2016 年
+2011
+2012
+2013
+2014
+2015
+2016 年
+(a) 中国
+统计数据
+预测数据
+(b) 广东、辽宁和宁夏
+GDP/ 万亿元
+GDP/ 万亿元
+广东
+辽宁
+宁夏
+1 期 
+53
+姜彤，等：共享社会经济路径下中国及分省经济变化预测
+www.climatechange.cn
+
+===== PAGE 5 =====
+较快增速，2100 年GDP 将分别达到260 万亿和400
+万亿元左右，较2016 年增加3 ～5 倍；SSP3 路径
+下，GDP 先增加，2050 年以后几乎保持不变，2100
+年GDP 约170 万亿元左右，较2016 年增加1.6 倍。
+总之，2030 年前不同SSPs 路径下GDP 差异不显著，
+2050 年以后差异逐渐显现，到2100 年，GDP 总量
+最大的SSP5 与最少的SSP3 相差达200 万亿元以上
+（图2a)。
+从GDP 的增速来看，2000—2010 年中国GDP
+的年均增速为10.3%，2011 年开始有所放缓，
+2012—2014 年为7.0% ～8.0%，2015 年为6.9%，
+2016 年为6.7%（图2b)。不同SSPs 路径下，2020
+年前GDP 仍旧保持6.0% 左右的增速。SSP1 路径下，
+2020 年代GDP 年均增速将放缓至4.5% 左右，2030
+年代将维持在年均3.0% 左右，2080 年代会出现负
+增长；SSP2 路径下，2020 年代GDP 年均增速放缓
+至4.8% 左右，2030—2049 年将维持年均2.0% 左右，
+2050 年至21 世纪末增速会进一步放缓，年均增速
+1.0% 左右；SSP3 路径下，2020 年代GDP 年均增速
+4.2% 左右，2030 年代维持在2.0% 左右，2040 年以
+后增速可忽略不计；SSP4 路径下，2020 年代GDP
+年均增速4.8% 左右，此后增速逐渐放缓，至2070
+年之后出现负增长趋势；SSP5 路径下，2025 年前
+依旧保持年均6.0% 的增速，2050 年前年均增速保
+持在2.0% 左右，2050 年至21 世纪末，年均增速1.0%
+左右。
+2.3  2020—2100 年分省GDP 总量和增速变化
+选择2020 年代和2090 年代研究中国31 个省
+（区、市）GDP总量和增速的变化。2020年代各省（区、
+市）年均GDP 空间分布呈现“东高西低，南高北
+低”的特点（图3)。SSP1 ～SSP5 路径下江苏年均
+GDP 最高，分别为14.9 万亿、14.3 万亿、13.7 万亿、
+14.1 万亿和15.3 万亿元，较2016 年的6.5 万亿元增
+加1 倍左右。西藏年均GDP 最低，均在0.2 万亿元
+以下。2010 年GDP 位居前8 位的省份为广东、江苏、
+山东、浙江、河南、河北、辽宁和四川。2020 年代，
+SSP1、SSP3、SSP4 和SSP5 路径下，湖北超过辽宁
+排在第8 位；SSP2 路径下，上海跻身第8 位，排在
+前7 位的分别为：江苏、广东、山东、浙江、河南、
+四川、河北。
+2020 年代中国GDP 增速各省（区、市）间存
+在明显差距（图4)。SSP1、SSP2、SSP3 和SSP5 路
+径下山东年均GDP 增速最高，分别为7.3%、8.3%、
+3.0% 和9.7%，SSP4 路径下上海GDP 增速最高，为
+5.8%；SSP1 ～ SSP5 路径下贵州年均GDP 增速最
+图3  2020 年代中国各省（区、市）年均GDP 空间分布
+Fig. 3  Spatial distribution of provincial annual GDP in China in 2020s
+50˚N
+40˚N
+30˚N
+20˚N
+40˚N
+50˚N
+40˚N
+30˚N
+20˚N
+30˚N
+20˚N
+50˚N
+40˚N
+30˚N
+20˚N
+40˚N
+30˚N
+20˚N
+40˚N
+30˚N
+20˚N
+40˚N
+30˚N
+20˚N
+40˚N
+30˚N
+20˚N
+50˚N
+40˚N
+30˚N
+20˚N
+50˚N
+40˚N
+30˚N
+20˚N
+90˚E
+100˚E
+110˚E
+120˚E
+130˚E
+90˚E
+100˚E
+110˚E
+120˚E
+130˚E
+90˚E
+100˚E
+110˚E
+120˚E
+130˚E
+90˚E
+100˚E
+110˚E
+120˚E
+130˚E
+90˚E
+100˚E
+110˚E
+120˚E
+130˚E
+90˚E 100˚E110˚E120˚E130˚E 140˚E
+80˚E
+70˚E
+90˚E 100˚E110˚E120˚E130˚E 140˚E
+80˚E
+70˚E
+90˚E 100˚E110˚E120˚E130˚E 140˚E
+80˚E
+70˚E
+90˚E 100˚E110˚E120˚E130˚E 140˚E
+80˚E
+70˚E
+90˚E 100˚E110˚E120˚E130˚E 140˚E
+80˚E
+70˚E
+GDP/ 万亿元
+(a) SSP1
+(b) SSP2
+(c) SSP3
+(d) SSP4
+(e) SSP5
+<1
+1 ～2 
+2 ～5
+5 ～8
+8 ～10
+>10
+无数据
+GDP/ 万亿元
+<1
+1 ～2 
+2 ～5
+5 ～8
+8 ～10
+>10
+无数据
+GDP/ 万亿元
+<1
+1 ～2 
+2 ～5
+5 ～8
+8 ～10
+>10
+无数据
+GDP/ 万亿元
+<1
+1 ～2 
+2 ～5
+5 ～8
+8 ～10
+>10
+无数据
+GDP/ 万亿元
+<1
+1 ～2 
+2 ～5
+5 ～8
+8 ～10
+>10
+无数据
+气候变化研究进展
+ 2018 年
+54
+www.climatechange.cn
+气候变
+化
+影
+响
+
+===== PAGE 6 =====
+低，分别为1.9%、1.2%、-0.7%、0.3% 和2.0%。
+SSP1 路径下，GDP 总量排在前8 位的省份中，广东、
+山东、浙江的GDP 增速保持在6.0% 以上，江苏、
+河南、河北增速5.5% 左右，湖北、四川增速5.1%
+左右；SSP2 路径下，山东、浙江、上海的GDP 增
+速在6.0%以上，广东、江苏、四川增速5.5%～6.0%，
+河南、河北增速5.2% 左右；SSP3 路径下，各省的
+GDP 增速均低于3.0%；SSP4 路径下，各省的GDP
+增速均低于5.0%，广东、浙江增速4.0% 以上，
+GDP 前8 位的其余6 省增速3.0% 左右；SSP5 路径
+下，各省GDP 增速普遍高于其他路径，山东、浙江、
+广东、江苏、河北的GDP 增速均超过6.0%，山东、
+浙江增速超过7.2%。河南、四川增速5.0% 左右，
+湖北增速4.5% 左右。
+2090 年代不同路径下GDP 前8 位的省份排名
+见表2。SSP1、SSP2 和SSP4 路径下，广东省是
+GDP 最高的省份，预计达到27 万亿、30 万亿和24
+万亿元，远高于其他各省（区、市)；而在SSP3 和
+SSP5 路径下，江苏是GDP 最高的省份，达到17 万
+亿和43 万亿元，广东在这两种路径下分别位居第3
+位和第2位。与2010年GDP排在前8位的省份相比，
+SSP1 和SSP5 路径下，福建和上海超过辽宁和四川
+图4  2020 年代中国各省（区、市）年均GDP 增速空间分布
+Fig. 4  Spatial distribution of annual growth rate of provincial GDP in China in 2020s
+50˚N
+40˚N
+30˚N
+20˚N
+40˚N
+50˚N
+40˚N
+30˚N
+20˚N
+30˚N
+20˚N
+50˚N
+40˚N
+30˚N
+20˚N
+40˚N
+30˚N
+20˚N
+40˚N
+30˚N
+20˚N
+40˚N
+30˚N
+20˚N
+40˚N
+30˚N
+20˚N
+50˚N
+40˚N
+30˚N
+20˚N
+50˚N
+40˚N
+30˚N
+20˚N
+90˚E
+100˚E
+110˚E
+120˚E
+130˚E
+90˚E
+100˚E
+110˚E
+120˚E
+130˚E
+90˚E
+100˚E
+110˚E
+120˚E
+130˚E
+90˚E
+100˚E
+110˚E
+120˚E
+130˚E
+90˚E
+100˚E
+110˚E
+120˚E
+130˚E
+90˚E 100˚E110˚E120˚E130˚E 140˚E
+80˚E
+70˚E
+90˚E 100˚E110˚E120˚E130˚E 140˚E
+80˚E
+70˚E
+90˚E 100˚E110˚E120˚E130˚E 140˚E
+80˚E
+70˚E
+90˚E 100˚E110˚E120˚E130˚E 140˚E
+80˚E
+70˚E
+90˚E 100˚E110˚E120˚E130˚E 140˚E
+80˚E
+70˚E
+(a) SSP1
+(b) SSP2
+(c) SSP3
+(d) SSP4
+(e) SSP5
+3   4   5   6
+GDP 增速/% 
+无数据
+3   4   5   6
+GDP 增速/% 
+无数据
+0   1   2   3
+GDP 增速/% 
+无数据
+3   4   5   6
+GDP 增速/% 
+无数据
+3   4   5   6
+GDP 增速/% 
+无数据
+进入前8 位，GDP 增速均低于1.0%；SSP2 路径下，
+湖南和福建进入前8 位，分别位列第7 位和第8 位，
+前8 位的省份中山东、河南、浙江、河北、福建均
+为负增长；SSP3 路径下，河南、浙江超过山东分别
+位列第2 位和第4 位，排名前8 位的省份均为负增
+长。SSP3 路径下，各省份GDP 总量远低于其他路
+径。该路径较其他路径下的劳动力资源相对充足，
+但劳动力受教育程度普遍偏低，不追求社会经济发
+展目标，不重视技术水平和制度体系的完善，居民
+生活水平较差，区域差异严重，使原本发展并不快
+的省（区、市）发展更缓慢，甚至出现停滞状态；
+SSP4 路径下，上海和湖南进入前8 位，分别位列第
+7 位和第8 位，江苏、河北、河南GDP 增速为负值。
+SSP5路径，特别强调以化石能源经济的发展为导向，
+原本经济发达的省（区、市）为了更快地实现发展
+目标，会通过加大资本投入的方式增加自身资本存
+量的积累并吸引更多劳动力人口的迁入，同时注重
+全要素生产率的快速提高，从而实现自身经济的迅
+猛发展。SSP5 路径下，江苏、广东、山东、浙江和
+河南等省份的GDP 远高于其他路径下的GDP。这
+些省份有着共同的特征，即经济发展水平高，有大
+量劳动力迁入，且劳动力人口的受教育程度较高。
+1 期 
+55
+姜彤，等：共享社会经济路径下中国及分省经济变化预测
+www.climatechange.cn
+
+===== PAGE 7 =====
+表2  不同路径下2090 年代GDP 前8 位的省份
+Table 2    Top eight provinces by GDP in 2090s under the five SSPs
+广东
+山东
+江苏
+河南
+浙江
+河北
+福建
+上海
+湖南
+辽宁
+四川
+SSP1
+SSP2
+SSP3
+SSP4
+SSP5
+万亿元
+省份
+排名
+总量
+1
+2
+3
+4
+5
+6
+7
+8
+26.5
+26.0
+22.2
+20.7
+20.0
+11.3
+9.9
+9.9
+排名
+总量
+1
+4
+3
+5
+2
+6
+8
+7
+29.8
+21.1
+22.1
+20.3
+24.3
+10.9
+10.1
+10.4
+排名
+总量
+3
+5
+1
+2
+4
+6
+7
+8
+13.0
+10.0
+17.1
+14.1
+12.3
+9.1
+7.8
+7.2
+排名
+总量
+1
+5
+2
+4
+3
+6
+7
+8
+23.9
+12.8
+17.9
+13.5
+14.4
+9.6
+8.4
+7.3
+排名
+总量
+2
+3
+1
+5
+4
+6
+8
+7
+42.0
+41.2
+42.9
+26.6
+39.4
+17.1
+15.6
+16.9
+3  结论与讨论
+本文根据中国人口和经济普查以及逐年统计
+资料，率定Cobb-Douglas 预测模型的劳动力投入
+量、全要素生产率和资本存量等参数，并依据共享
+社会经济路径框架，对模型中的参数进行假设，
+预测并创建2100 年前中国和31 个省份GDP 格点
+（0.5°×0.5°）数据集，分析研究GDP 总量及增速
+变化规律，研究结论如下。
+(1) 采用不同的社会经济发展政策，未来中国
+GDP 总量会呈现明显差异。SSP1 和SSP4 路径下，
+中国GDP 总量呈现先增后降趋势，峰值将出现在
+2070—2080 年；SSP2 和SSP5 路径下，GDP 呈现持
+续增长趋势，SSP3 路径下，2050 年以后GDP 增长
+处于停滞状态。本文研究结果与国际机构公布的数
+据相比[16-18],GDP 达到峰值的时间延迟5 ～10 年左
+右，峰值GDP 高出约10 万亿～20 万亿元左右；
+这种差异的原因是本研究考虑了新的人口政策及其
+对劳动力和科学技术进步的影响。模型参数调整仅
+仅延迟GDP 达峰的时间，但对GDP 变化趋势没有
+影响。SSP3、SSP4 路径下前期经济持续增长，中、
+后期增长停滞并出现负增长，说明区域竞争、不均
+衡的发展路径最终可能带来更差的社会公平和经济
+状况。目前中国已经是世界上能源消耗最多的国家，
+特别是煤炭、电力消耗最多，人均能源消耗超过世
+界平均水平，雾霾、温室气体排放和能源安全已经
+成为中国当前必须面对的残酷现实[14]。SSP5路径下，
+经济持续增长，但与高能耗相伴的温室气体排放和
+空气污染问题将愈加严重。
+(2) 无论采用何种社会经济发展政策，未来中国
+GDP 增速均呈现不同程度的放缓状态。2020 年前，
+中国GDP 仍会保持6.0% 左右的增速。随后GDP
+增速均有不同程度的减小，SSP3 下经济发展则出现
+停滞状态，SSP2 和SSP4 下还会出现负增长态势。
+采用当前社会经济发展模式的SSP2 路径预测
+结论与已有世界银行及国内学者研究结论基本一
+致[5-8]，前期保持6.0% 左右的增速，中期年均速率
+放缓到4.0% ～5.0%，后期停滞甚至出现负增长。
+说明完全依照当前的经济增长模式并不可持续，要
+取得预期的经济增速，需调整经济政策与结构，降
+低能源消耗水平。
+(3) 不同社会经济发展政策对中国分省经济增长
+影响显著。2020 年代GDP 总量最高与最低省份相
+差15 万亿～25 万亿元。到21 世纪末，SSP1 路径
+下GDP 总量排在前3 位的省份为广东、山东和江
+苏省；SSP2 下浙江顶替山东位列第2 位，广东和江
+气候变化研究进展
+ 2018 年
+56
+www.climatechange.cn
+气候变
+化
+影
+响
+
+===== PAGE 8 =====
+参考文献
+IPCC. Climate change 2013: the physical science basis [M]. 
+Cambridge: Cambridge University Press, 2013
+[1]
+苏分别位列第1 位和第3 位；SSP3 路径下，江苏位
+列第1 位，河南超过山东跻身第2 位，广东排名第
+3 位；SSP4 路径下排名前3 位的省份为广东、江苏
+和浙江省；SSP5 路径下广东超过山东位列第2 位，
+江苏和山东省分列第1、3 位。
+(4) 2020 年代SSP1、SSP2 和SSP5 路径下GDP
+增速在山东、浙江等省保持6.0% 以上；SSP3 和
+SSP4 路径下仅广东和浙江省可维持5.0% 左右，个
+别省还出现负增长。2090 年代不同路径下各省GDP
+增速均低于1.0%。
+广东、浙江、江苏等发展水平较高的省份，未
+来有大量劳动力人口迁入且劳动力人口受教育程度
+普遍偏高，GDP 总量预测维持较高水平。但不同
+的发展路径会带来不同的社会问题。例如发展水平
+较高的SSP5 路径下，劳动力人口可能进一步向社
+会经济水平发达的省份集中，在推动产业发展的同
+时带来交通拥挤、基础设施不足、资源紧张、污染
+增加等城市问题，发展较为落后的省份则可能面临
+更大的劳动力不足，科技进步水平发展更为迟缓；
+SSP3 和SSP4 路径下，人口迁移少，经济落后的省
+份人口增加显著，教育与就业问题凸显，各省的经
+济增速普遍放缓，部分基础较差的省份将出现负增
+长，需要发展新的地区产业以促进经济发展。
+在气候变化和新的人口经济政策实施背景下，
+中国经济走向及增速备受关注。当前中国正处于环
+境与发展的新常态，面临经济增速放缓、生态环境
+承载力接近上限等众多矛盾和挑战，绿色可持续发
+展是唯一可行的发展之路。采取可持续路径（SSP1)，
+中国完全有能力在21 世纪中叶超过美国成为世界
+上最大、最有实力的经济体。不同SSPs 路径下经
+济预测对未来能源分配、结构转型和灾害风险评估
+都起到重要作用。本文尽管构建了中国和分省经济
+预测模型，但影响未来经济发展的因素众多，存在
+诸多的不确定性，在后续研究中仍需不断完善。
+[4]
+[3]
+[5]
+[6]
+[7]
+[8]
+Smith A. An inquiry into the nature and causes of the wealth of nations 
+[M]. 江苏: 译林出版社, 2013
+Keynes J M. A Treatise on probability [J]. Science, 1921, 58 (1490): 
+51-52
+International Monetary Fund. Republic of Madagascar: economic 
+development document [M]. IMF Country Report, 2017, No. 17/225
+World Bank. Global economic prospects: a fragile recovery [M]. 
+Global economic prospects, World Bank, 2017: 1-5
+王小鲁. 中国经济增长的可持续性与制度变革[J]. 经济研究, 2000 
+(7): 3-15
+李京文. 21 世纪中国经济长期预测 (2000—2050 年) [J]. 冶金经济
+与管理, 2000 (3): 4-7
+林毅夫. 展望新千年的中国经济[J]. 宁波经济: 财经视点, 2001 (1): 
+11-12
+Nakicenovic N, Swart R. Special report of the intergovernmental 
+panel on climate change [J]. Infection & Immunity, 2000, 70 (7): 
+3611-3620
+Ruijven B J V, Levy M A, Agrawal A, et al. Enhancing the relevance of 
+shared socioeconomic pathways for climate change impacts, adaptation 
+and vulnerability research [J]. Climatic Change, 2014, 122 (3): 481-494
+vanVuuren D P, Riahi K, Moss R, et al. A proposal for a new scenario 
+framework to support research and assessment in different climate 
+research communities [J]. Global Environmental Change, 2012, 22 (1): 
+21-35
+曹丽格, 方玉, 姜彤, 等. IPCC影响评估中的社会经济新情景(SSPs)
+进展[J]. 气候变化研究进展, 2012, 8 (1): 74-78
+张杰, 曹丽格, 李修仓, 等. IPCC AR5 中社会经济新情景(SSPs) 
+研究的最新进展[J]. 气候变化研究进展, 2013, 9 (3): 225-228
+Riahi K, van Vuuren D P, Kriegler E, et al. The shared socioeconomic 
+pathways and their energy, land use, and greenhouse gas emissions 
+implications: an overview [J]. Global Environmental Change, 2017,1 
+(42): 153-168
+Hawksworth, J. The world in 2050: how big will the major emerging 
+market economies get and how can the OECD compete [R]. 
+PricewaterhouseCoopers, 2006
+Cuaresma J C. Income projections for climate change research: a 
+framework based on human capital dynamics [J]. Global Environmental 
+Change, 2017, 42: 226-236
+Leimbach M, Kriegler E, Roming N, et al. Future growth patterns of 
+world regions: a GDP scenario approach[J]. Global Environmental 
+Change, 2017, 42: 215-225
+Dellink R, Chateau J, Lanzi E, et al. Long-term economic growth 
+projections in the shared socioeconomic pathways [J]. Global 
+Environmental Change, 2017, 42: 200-214
+O’Neill B C, Kriegler E, Ebi K L, et al. The roads ahead: narratives for 
+shared socioeconomic pathways describing world futures in the 21st 
+century [J]. Global Environmental Change, 2017, 42: 169-180
+姜彤, 赵晶, 景丞, 等. IPCC 共享社会经济路径下中国和分省人口
+变化预估[J]. 气候变化研究进展, 2017, 13 (2): 128-137
+史永东, 武志, 甄红线. 我国金融发展与经济增长关系的实证分析
+[J]. 预测, 2003, 22 (4): 1-6
+[2]
+[12]
+[13]
+[14]
+[9]
+[10]
+[11]
+[17]
+[18]
+[19]
+[15]
+[16]
+[20]
+[21]
+1 期 
+57
+姜彤，等：共享社会经济路径下中国及分省经济变化预测
+www.climatechange.cn
+
+===== PAGE 9 =====
+Projection of national and provincial economy under the shared 
+socioeconomic pathways in China
+1 Collaborative Innovation Center on Forecast and Evaluation of Meteorological Disasters, School of Geography, 
+Nanjing University of Information Science & Technology, Nanjing 210044, China; 
+2 National Climate Center, China Meteorological Administration, Beijing 100081, China; 
+3 State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute of Ecology and Geography, Chinese Academy of 
+Sciences, Urumqi 830011, China; 4 School of Resources and Environmental Science, Hubei University, Wuhan 430062, 
+China; 5 Department of Geography & Spatial Information Techniques, Ningbo University, Ningbo 315211, China
+Abstract:  Based on national demographic and economic census and annual statistical yearbooks, this paper 
+focused on the projection of national and provincial economy in China during 2020-2100, using Cobb-Douglas 
+model under the five shared socioeconomic pathways (SSPs). The results show that: (1) national economy will 
+keep rising up to 2070-2080 and then decline under sustainability (SSP1) and inequality (SSP4), while GDP 
+will continue to grow under middle of the road (SSP2) and fossil-fueled development (SSP5) and stagnate after 
+2040 under regional rivalry (SSP3). (2) GDP can maintain about 6.0% growth rate before 2020s under all SSPs, 
+but will slow down to less than 5.0% afterwards and may stagnate or even show negative growth. (3) The social 
+and economic development policies have direct impacts on the provincial economic growth. GDP at the Jiangsu, 
+Guangdong and Shandong provinces ranks in the top three under SSP1 ～SSP5 in 2020s. In 2090s, provinces 
+ranks in the top three keep consistent with 2020s under SSP1 and SSP5, but Zhejiang will rank the second under 
+SSP2, Henan enters the top three under SSP3, and the top three provinces will be changed as Guangdong, Jiangsu 
+and Zhejiang under SSP4. (4) As for growth rate of GDP, Shandong and Zhejiang can stay above 6.0% under 
+SSP1, SSP2 and SSP5 in 2020s, only Guangdong and Zhejiang provinces can maintain about 5.0% and some 
+provinces might show negative growth under SSP3 and SSP4. In 2090s, all provincial GDP growth rate will be 
+less than 1.0%.
+Keywords: Shared socioeconomic pathways (SSPs); Cobb-Douglas model; Economic projection; Provincial 
+level; China
+JIANG Tong
+1, 2, ZHAO Jing
+1, CAO Li-Ge
+2, WANG Yan-Jun
+1, SU Bu-Da
+1, 2, 3, JING Cheng
+1,
+WANG Run
+4, GAO Chao
+5
+朱承亮, 岳宏志, 李婷. 中国经济增长效率及其影响因素的实证研
+究: 1985—2007 年[J]. 数量经济技术经济研究, 2009 (9): 52-63
+薛继亮. 基于产业转型升级视角的中国就业结构转变研究[J]. 财经
+问题研究, 2017 (3): 36-41
+中华人民共和国国家统计局. 2010 年第六次全国人口普查主要数
+据公报( 第1 号) [J]. 中国计划生育学杂志, 2011, 54 (8): 511-512
+Samir K C, Lutz W. The human core of the shared socioeconomic 
+pathways: population scenarios by age, sex and level of education for 
+all countries to 2100 [J]. Global Environmental Change, 2014, 42 (1): 
+181-192
+叶裕民. 全国及各省区市全要素生产率的计算和分析[J]. 经济学家, 
+2002, 3 (3): 115-121
+金飞, 张琦. 中国市区县级TFP 变动问题的讨论: 2007—2010 年[J]. 
+数量经济技术经济研究, 2013 (9): 55-71
+刘建国, 李国平, 张军涛, 等. 中国经济效率和全要素生产率的空
+间分异及其影响[J]. 地理学报, 2012, 67 (8): 1069-1084
+Goldsmith R W. A perpetual inventory of national wealth [M]. National 
+Bureau of Economic Research, 1951, 12: 5-74
+单豪杰. 中国资本存量K 的再估算: 1952—2006 年[J]. 数量经济
+技术经济研究, 2008 (10): 17-31
+[22]
+[23]
+[24]
+[25]
+[26]
+[27]
+[28]
+[29]
+[30]
+气候变化研究进展
+ 2018 年
+58
+www.climatechange.cn
+气候变
+化
+影
+响

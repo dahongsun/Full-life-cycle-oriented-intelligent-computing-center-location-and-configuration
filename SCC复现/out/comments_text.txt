@@ -1,0 +1,307 @@
+
+Manuscript Number: ESE-D-26-00768   
+Full life cycle oriented intelligent computing center location and configuration: Considering green operation and output value contribution
+Dear Dr. SUN,     
+Thank you for submitting your manuscript to Environmental Science and Ecotechnology. I have completed my evaluation of your manuscript. The reviewers recommend reconsideration of your manuscript following revision. I invite you to resubmit your manuscript after addressing the comments below. Please resubmit your revised manuscript by Jul 10, 2026. 
+感谢您向《环境科学与生态技术》投稿。我已经完成了对你手稿的评估。评审建议修改后重新考虑你的手稿。我邀请你在回复下面的评论后重新提交你的手稿。请在2026年7月10日前重新提交您的修订稿。
+When revising your manuscript, please consider all issues mentioned in the reviewers' comments carefully: please outline in an independent response letter every change made in response to their comments and provide suitable rebuttals for any comments not addressed. Please note that your revised submission may need to be re-reviewed. 
+在修改您的稿件时，请仔细考虑审稿人意见中提到的所有问题：请在一份独立的回复信中逐条概述针对他们的意见所做的每一项修改，并为未解决的意见提供合理的反驳。请注意，您修改后提交的稿件可能需要重审。
+To submit your revised manuscript, please log in as an author at https://www.editorialmanager.com/ese/, and navigate to the "Submissions Needing Revision" folder under the Author Main Menu.
+要提交修改后的稿件，请以作者身份登录https://www.editorialmanager.com/ese/ ，并导航至“作者主菜单”（Author Main Menu）下的“需要修改的提交”（Submissions Needing Revision）文件夹。
+Environmental Science and Ecotechnology values your contribution and I look forward to receiving your revised manuscript.
+《Environmental Science and Ecotechnology》非常重视您的贡献，我期待收到您修改后的稿件。
+Kind regards,  
+Nanqi Ren
+加几个关于Ren 主编的文献
+Editor-in-Chief
+Environmental Science and Ecotechnology  
+Editor and Reviewer Comments:
+The manuscript requires major revision before it can be considered for publication. The reviewers have identified critical needs for greater rigor and transparency in the life-cycle assessment framework, particularly regarding the definition of the functional unit, system boundaries, and the completeness of the life-cycle inventory, alongside potential inconsistencies in the temporal accounting of operational emissions when integrated with time-varying social costs of carbon. Furthermore, the optimization model must be reformulated as a standard mixed-integer program with complete and consistent mathematical notation, explicit linking constraints between service relationship and flow variables, and proper linearization of non-standard expressions, while the interpretation of macroeconomic contributions and the framing of policy-relevant thresholds require more cautious justification supported by comprehensive sensitivity and robustness analyses. The authors should provide a detailed point-by-point response to all reviewer comments and submit a thoroughly revised manuscript addressing these methodological and interpretive issues.
+稿件在被考虑发表之前需要进行大修（major revision）。审稿人指出生命周期评估框架迫切需要更高的严谨性和透明度，特别是在(1)功能单元的定义、系统边界、生命周期清单的完整性，以及与(2)随时间变化的碳社会成本相结合时运营排放的时间核算可能存在的不一致性方面。此外，优化模型必须被重新表述为具有完整和一致的数学符号的标准混合整数规划，并具备明确连接服务关系与流量变量的约束条件，以及对非标准表达式的适当线性化(方法适用)；同时，对宏观经济贡献的解释（现有丰富，增加）和与政策相关的阈值设定（论文参考、政策）需要更谨慎的论证，并辅以全面的敏感性和稳健性分析。作者应对所有审稿人的意见提供详细的逐条回复，并提交一份经过彻底修改的稿件以解决这些方法论和解释上的问题。
+
+Reviewer 1: 
+The manuscript addresses a timely and policy-relevant topic by examining the location and configuration of intelligent computing centers from the perspectives of life-cycle cost, social cost of carbon, and macroeconomic output contribution. The integration of LCC, LCA, SCC, input-output analysis, and location optimization is potentially valuable. However, the current version still contains several methodological and formulation issues that should be addressed before publication.
+该稿件涉及一个及时且与政策相关的主题，从全生命周期成本、碳社会成本和宏观经济产出贡献的角度探讨了智算中心的选址与配置。将生命周期成本（LCC）、生命周期评估（LCA）、碳社会成本（SCC）、投入产出分析和选址优化相结合具有潜在的应用价值。然而，当前版本仍存在一些方法论和表述上的问题，在发表前应予以解决。
+Comment 1: The main methodological contribution should be more clearly positioned.
+In Lines 95–106, the authors list three contributions, including the LCSC framework, the input-output model, and the location optimization model. However, it is still not sufficiently clear which element constitutes the core novelty of the manuscript. The general finding that computing centers should be located in regions with cleaner energy, lower electricity costs, and favorable cooling conditions has already been widely discussed. The authors should more clearly distinguish the original contribution of this study from existing data center location and carbon-aware computing infrastructure studies.
+意见 1：应更清晰地定位主要的方法论贡献。
+在第95至106行，作者列出了三项贡献，包括LCSC框架、投入输出模型和位置优化模型。然而，究竟哪一个元素构成了手稿的核心新颖性，仍然不够明确。关于智算算中心应设在能源更清洁、电价更低且冷却条件良好的地区，这一普遍结论已被广泛讨论。作者应更清楚地区分本研究的原始贡献与现有的数据中心位置和碳意识算力基础设施研究。
+
+Response:感谢审稿人的建议。我们在修订稿中已对引言部分（第95-106行）的贡献陈述进行了重新组织，明确指出本研究的核心方法论贡献是从全生命周期视角出发，提出了考虑宏观经济贡献、碳社会成本、生命周期成本的智算中心选址框架，而LCSC成本核算体系、投入产出模型、LCA评估体系与选址优化模型并非与之并列的独立创新点，而是该框架得以量化和落地的关键实现组件。
+指出核心新颖性+原因
+确实被广泛讨论，
+区别：综述，对结论的不同反推，指出边际贡献
+（1）ab考虑，未考虑，
+（2）再xx的基础上，做了什么得到什么结论
+（3）结论、数据、模型
+实际问题导出考虑因素（创新点的必要性），得到什么结论
+西部数据中心，东部算力需求、智算中心，考虑上智算中心》需要经济贡献问题》得到了xx结论
+以前研究的什么结论（参考文献），本文研究结论，差别在哪，
+
+
+现有文献往往从固定成本（建设成本、运营成本）、碳排放量出发建立数学应用模型，未曾将宏观经济贡献和碳排放的外部性因素纳入选址优化数学模型。本研究的主要方法论贡献是，在前人研究的基础之上，从全生命周期视角出发，提出了考虑宏观经济贡献和碳社会成本的一种新的选址优化模型，为智算中心选址提供了更为科学的选址框架。
+
+具体而言：
+1.核心创新点澄清
+（1）我们的模型原本是考虑生命周期成本、总碳社会成本、宏观经济贡献，但我门将生命周期成本和总碳社会成本进行整合得到LSSC核算体系。LCSC核算体系是为了给出一个新的衡量智算中心（ICC）成本的核算体系，智算中心的成本不仅仅体现在全生命周期成本建设和运营等企业成本，还应该包括它带来的环境损失，这部分可视为产品的“隐性成本”。在核算过程中我们引入了全生命周期成本（LCC）、生命周期评估（LCA）和碳社会成本（SCC）等理论与模型来进行计算，量化LCA和总碳社会成本构成的ICC的总货币成本。
+（2）此外，对于宏观经济贡献，我们采取了投入产出模型进行量化。
+（3）对于具体的选址与配置方案建议，基于上述内容和查阅选址相关数据，通过建立线性混合整数规划模型求解得出。
+2.与现有数据中心选址及碳感知计算基础设施研究的区别
+我们认同审稿人指出的“应优先选择能源更清洁、电价更低、冷却条件更好的地区“这一结论在现有文献中已被广泛讨论。但需要说明的是：
+既有研究（包括碳感知计算基础设施选址文献）大多将这些区域因素作为定性筛选准则或目标函数中的单一/分立指标（如最小化运营成本、最小化碳排放量），其碳排放本身并未被货币化，也未与工程成本纳入同一核算口径；同时这些研究普遍将ICC视为单一成本中心，未考虑其作为“新型基础设施”对区域/国家经济的产出拉动效应。
+本研究的边际贡献在于：（a）基于LCA，通过动态SCC将碳排放外部性转化为与LCC同口径的货币量，构成统一的LCSC核算体系；（b）首次将投入产出分析嵌入选址配置优化模型，把宏观经济产出贡献作为目标/约束变量而非事后评估指标；（c）由此优化结果不再只是“应选在哪类区域”这一定性结论，而是在给定产出贡献份额阈值下的成本-排放-产出权衡曲线及具体数值，为政策制定提供可操作的量化阈值，这是仅依赖“清洁能源/低电价/良好冷却”定性结论所无法提供的。
+The revised objective now reads:
+Page and line numbers: Page 7, lines 202-211, Eq.8;（样例）
+
+
+
+
+Comment 2: The LCA framework remains too aggregated for a full life-cycle claim.
+In Lines 224–265, the manuscript divides the life cycle into material production, installation and construction, operation and management, and demolition stages. However, the inventory remains highly aggregated, and the functional unit is not sufficiently operational for comparing ICCs of different scales and regional service configurations. The authors should clarify the reference computing service, rack utilization, service level, lifetime assumptions, allocation rules, and major inventory data sources. Without these details, the analysis is closer to a simplified carbon accounting framework than a rigorous LCA.
+
+评论2：对于“全生命周期”的声明而言，目前的LCA框架过于汇总。
+在第224至265行，手稿将生命周期划分为材料生产、安装与建造、运营管理以及拆除阶段。然而，清单仍高度汇总，并且功能单元在比较不同规模和区域服务配置的智算中心（ICC）时缺乏足够的可操作性。作者应澄清参考计算服务、机架利用率、服务水平、生命周期假设、分配规则及主要数据来源。没有这些细节，分析更接近简化的碳核算框架，而非严格的LCA。
+
+Response:感谢您指出的关键问题。补充清单和数据来源
+Life cycle Assessment（LCA）四个阶段：
+目标与范围定义：
+生命周期清单分析：
+生命周期影响评估：
+非常感谢审稿人提出的这一重要且具有建设性的意见。我们同意审稿人的判断，原稿中关于生命周期评价（LCA）的表述较为汇总，尤其是原第224—265行虽然将ICC生命周期划分为材料生产、安装与建造、运营管理以及拆除阶段，但对目标与范围、功能单位、参考计算服务、服务水平、机架利用率、生命周期假设、分配规则和清单数据来源的说明不够充分。这可能导致读者认为本文所提出的框架更接近简化的碳核算框架，而不是具有清晰边界和可重复性的生命周期评价框架。
+针对该问题，我们对第3.2.2节“Life Cycle Assessment”进行了较大幅度修改。第一，我们在该节开头新增了目标与范围定义，明确本文采用的是嵌入选址—配置优化模型中的“简化归因型生命周期清单/LCA框架”，其目的并非对每一个ICC设施开展基于详细物料清单的产品级过程LCA，而是在规划决策层面，为不同选址、规模、电力结构和服务配置方案提供可比较的生命周期碳排放评价。
+第二，我们补充并明确了功能单位。修订稿将功能单位定义为“在既定服务水平约束下提供1个标准机架年的ICC计算服务”。在系统层面，所有候选布局方案均被要求在相同生命周期内满足相同的省级机架需求，因此不同规模和区域服务配置方案是在等效参考计算服务基础上进行比较的。这样可以避免因不同方案服务需求不一致而导致的不可比问题。
+第三，我们进一步说明了参考计算服务和服务水平假设。参考计算服务由各省机架需求以及跨省服务分配变量共同定义。服务可达性由传播时延阈值的相应服务半径约束决定，服务充分性由全国和省级机架需求满足约束保证。同时，我们将机架利用率与模型中的服务器闲置率约束相衔接，将利用率定义为实际分配服务机架量与新建机架容量之比，从而使生命周期清单与实际提供的计算服务相对应，而不仅仅对应装机容量。
+第四，我们补充了主要生命周期假设，包括系统边界、18年服务寿命、6—9个月建设期、服务器更新/翻新周期、PUE处理方式、电力结构处理方式以及终端拆除和回收处理方式。第五，我们新增了分配规则说明：材料生产、安装建造和终端处置阶段排放分配至ICC所在省份和建设规模；运营阶段电力排放分配至服务提供省份，因为电力实际消耗发生在该省ICC；当一个ICC为多个省份提供服务时，其建设和终端处置阶段排放按照服务机架量比例进行分摊；传输基础设施相关负荷则按照传输距离和服务机架量进行分配。
+最后，我们在数据部分新增了生命周期清单假设与数据来源汇总表，系统列出了机架存量与需求、不同规模ICC的材料/人工/土地/机架数量、各省电价、电力结构、PUE、标准煤耗、煤炭燃烧排放因子、标准机架功率、服务寿命、人工排放因子、人口与GDP预测以及服务器生命周期碳排放数据等主要来源。与此同时，我们也对文中“full life cycle”和“LCA”的表述进行了适度降调，将其明确为“面向规划优化的简化归因型生命周期评价框架”，以避免过度声称。通过上述修改，本文的生命周期声明、功能单位和清单假设更加透明，也提高了不同ICC布局和配置方案之间的可比性与可操作性。
+
+The revised objective now reads:
+3.2.2节：生命周期评价
+为避免“全生命周期”声明过于笼统，本文在计算ICC生命周期碳排放之前，进一步明确生命周期评价模块的目标与范围、功能单位、参考计算服务、服务水平、机架利用率、生命周期假设和分配规则。本文的LCA模块是嵌入ICC选址与配置优化模型中的简化归因型生命周期清单评价框架，其目的并非针对每一个ICC设施开展基于详细物料清单的产品级过程LCA，而是在规划决策层面，为不同选址、建设规模、电力结构和服务配置方案提供透明且可比较的生命周期碳排放评价。
+目标与系统边界。本文LCA模块的目标是量化不同空间布局和计算服务配置方案下新建ICC所引致的净碳排放。系统边界采用从“摇篮到坟墓”的生命周期边界，覆盖四个阶段：（1）材料生产阶段，包括建筑材料、IT硬件设备和机电基础设施的生产；（2）安装与建造阶段，包括现场施工、设备安装和人工投入；（3）运营与管理阶段，包括电力消耗、维护、设备翻新和更换；（4）拆除与终端处置阶段，包括设施拆除、设备处置、残余材料回收以及水泥/混凝土碳吸收等。随后，本文将生命周期净碳排放与动态省级社会碳成本相结合，计算总社会碳成本。
+功能单位与参考计算服务。本文将功能单位定义为：在既定服务水平约束下提供1个标准机架年的ICC计算服务。1个标准机架年是指1个标准机架在1年内被安装并用于提供计算服务，其电力消耗由标准机架额定IT功率、年度运行时间、机架利用率以及所在省份和建设规模对应的PUE共同决定。在系统比较层面，所有候选布局方案均被要求在相同生命周期内满足相同的省级机架需求。因此，不同方案之间生命周期碳排放的差异主要来自选址、规模、电力结构、PUE、服务分配和传输距离，而不是来自所服务总需求的差异。
+机架利用率与服务水平假设。本文通过三类约束刻画ICC服务水平。第一，全国和省级机架需求约束确保新建和已建机架容量能够满足计算需求。第二，传播时延约束决定省份i是否可以向省份j提供计算服务；当两省之间距离超过由允许传播时延推导出的最大服务半径时，该跨省服务关系不可行。第三，服务器闲置率约束用于保证新建ICC容量被有效利用。本文将省份i中新建ICC的机架利用率定义为：省份i向所有受服务省份分配的机架服务量与省份i新建机架总容量之比。该定义使生命周期清单与实际提供的计算服务相对应，而不是仅与装机容量相对应。
+生命周期假设。本文设定ICC服务寿命为18年。建设期设定为6—9个月，并根据设施规模进行处理。运营阶段中，标准机架的电力消耗由额定IT功率、年度运行时间、利用率和PUE共同决定。各省电力供应被划分为火电和可再生能源电力，火电相关排放基于各省单位发电标准煤耗和煤炭燃烧排放因子计算；在运营边界内，可再生能源电力不计入直接燃烧排放。服务器翻新、维护和更换排放纳入运营与管理阶段，并根据平均翻新/更换周期进行计算。终端处置阶段包括拆除、设备处置和材料回收相关排放，同时按照既有建筑生命周期评价方法扣除水泥和混凝土碳吸收量。
+分配规则。对于每一个新建ICC，材料生产、安装建造和终端处置阶段排放分配至ICC所在省份及其建设规模。运营阶段电力排放分配至服务提供省份，因为电力实际消耗发生在该省ICC，即使其计算服务被提供给其他省份。对于跨省计算服务，运营阶段负荷按照省份i向省份j提供的机架服务量进行分配。传输基础设施相关负荷根据传输距离和服务机架量进行分配。当一个ICC同时为多个省份提供服务时，其建设阶段和终端处置阶段排放按照各受服务省份的机架服务量比例分摊。除已在终端碳排放计算中明确表示的碳吸收外，本文不额外引入回收替代排放抵扣；设备残值和回收经济价值则在生命周期成本模块中处理。
+基于上述目标与范围定义，本文计算ICC全生命周期净碳排放。总净碳排放由材料生产、安装与建造、运营与管理以及拆除四个阶段构成。材料生产阶段排放包括建筑材料、IT硬件和机电基础设施制造排放；安装与建造阶段排放包括人工投入和现场施工活动排放；运营与管理阶段排放包括能源消耗排放和维护/翻新排放，并扣除水泥和混凝土碳吸收量；拆除阶段排放包括拆除和处置排放，并扣除相应碳固存或碳吸收量。
+Page and line numbers: Page 7, lines 202-211, Eq.8;（样例）
+
+Comment 3: The temporal consistency between operational emissions and SCC needs clarification.
+In Lines 266–317, the manuscript introduces a dynamic SCC model and combines it with life-cycle carbon emissions. However, the relationship between annual operational emissions and time-varying SCC is not fully clear. In particular, the authors should clarify whether operational emissions in Eq. (17) represent annual emissions or cumulative life-cycle emissions. Otherwise, the subsequent TSCC calculation may involve temporal mismatch or repeated counting when operational emissions are multiplied by annual SCC values.
+意见3：运营排放和SCC之间的时间一致性需要澄清。
+在第266–317行，稿件引入了一个动态的SCC模型，并将其与生命周期碳排放相结合。然而，年度运营排放与随时间变化的SCC之间的关系尚不完全清楚。具体而言，作者应澄清等式（17）中的运营排放是代表年度排放还是累积的生命周期排放。否则，随后在计算总碳社会成本（TSCC）时，若将运营排放乘以年度SCC值，可能涉及时间不匹配或重复计算。
+
+Response:感谢审稿人指出这一关键问题。们也认识到，手稿目前的公式表述未能充分展现这一时间对应关系，确实存在表述不清的问题（容易引起误解）。我们仔细核查了第3.2.2节（Eq.12-19）与第3.2.3节（Eq.20-23）之间的衔接，确认模型实现层面已经按照“排放发生在哪一年，就用哪一年的SCC对其计价并进行折现”的原则进行计算。我们已在修订稿中作如下修订：
+1.POP表示ICC在稳定运营状态下的累积年度排放（吨CO2），基于各规模m的年耗电量、PUE及电网排放因子计算得到。在保持上述结构完整的情况下，我们新增了年度运营与管理阶段的净碳排放量NO,t计算公式，计算公式如（1）所示。
+2.其中，imαiPi,mIid为运营期年度能源碳排放，UO,t为水泥和混凝土等建筑材料的年度碳吸收量，NB+NT+NI×0.2%+1.05%+8%+10%δ+imeinfraPminfraxi,m⋅It mod v=0为年度管理维护期碳排放，其中第二项表示运营期间每隔v年设备更换中新增的生命周期排放来源，通过示性函数It modv =0仅在更新年份激活，进一步增强了“全生命周期”评估的完整性。在敏感性分析情景中，我们也提供了NO,t随电网逐步清洁化而逐年递减的版本。
+#NO,t=imαiPi,mIid+NB+NT+NI×0.2%+1.05%+8%+10%δ+imeinfraPminfraxi,m⋅It mod v=0-UO,t##1
+2.修正TSCC（Eq.23）的计算公式，并进行详细的细节说明
+TSSC是对同一组排放数据按其各自发生的年份，分别乘以该年份对应的SCC后折现求和，计算公式如（2）所示。建设期排放NB、NI在第0年计价；运营期各年排放NO,t在第t年计价；拆除期排放ND在第18年计价。即：
+TSSC=NB+NI×SCC0+t=1B0​NO,t×SCCt×11+ρt+ND×SCCB0×11+ρBO#2
+由于未来年份产生的社会损害价值不能直接与当前价值进行比较，需要利用社会折现率将未来损失折算至决策时点。其中，NB+NI×SCC0代表建材生产、安装施工的碳社会成本，t=1B0​NO×SCCt×1BO1+ρt代表运营阶段的折现碳社会成本，ND×SCCB0×11+ρBO代表拆除阶段的折现碳社会成本。
+二者在排放数据上一致、在时间聚合方式上不同，不存在重复计算：$N$ 不会被再次乘以SCC求和因子，TSCC也不会脱离各阶段的实际发生年份去对总量N一次性定价。
+3. 修订内容
+我们在Eq.(22)-(24)的公式表述中为所有排放变量与SCC变量统一添加了时间下标t，并在公式后补充了一段过渡说明，配合一张示意表，逐项列出各阶段排放在N（LCA清单汇总）与TSCC（逐年折现定价）两条计算路径中的对应关系。本次修订仅涉及表述与公式记号的澄清，所有数值结果保持不变。
+
+Comment 4: The optimization model is not yet formulated as a rigorous standard MIP.
+Although the manuscript states that the model is solved using Gurobi, several constraints in Lines 360–410 still contain non-standard or nonlinear expressions. For example, the same parameters appear to be used as both lower and upper bounds in Eqs. (31) and (32), the PUE constraint in Eq. (36) uses an artificial “+∞” condition, Eq. (34) contains a minimum function, and Eq. (38) includes a ratio term. These formulations require proper reformulation or linearization before the model can be presented as a standard mixed-integer programming model.
+意见 4：优化模型尚未表述为严格的标准混合整数规划（MIP）。尽管稿件说明模型使用了Gurobi求解，但在第360–410行中的几个约束条件仍包含非标准或非线性表达式。例如，相同的参数似乎在等式（31）和（32）中同时被用作下限和上限；等式（34）包含一个最小值（minimum）函数；等式（36）中的PUE约束使用了人为的“+∞”条件；等式（38）包含一个比率项。在将该模型作为标准混合整数规划模型展示之前，这些公式需要进行适当的重构或线性化。
+Response:感谢审稿人对模型严谨性的细致审查。您指出约束条件中存在仍存在表述不规范问题，并未以标准的混合整数线性规划的线性形式给出，这就容易存在模型能否直接交给Gurobi求解器处理的疑惑。本文中保留非线性项本来是为了方便读者理解真实意义，但未讲清楚对非线性项的详细处理，从而降低了可复现性。因此，在您的意见下我们逐一对约束条件进行了重新表述和线性化处理，并在您的启发下对全文其他公式也进行了详细的检查与修订，重新核对Gurobi实现代码与下述线性形式完全一致。我们已在修订稿中对其进行了重新表述和线性化处理，具体如下:
+
+4.1针对Eq.(31)与Eq.(32)参数重叠导致的上下界定义不清问题
+我们将在修订稿中，说明这两个约束条件的实际意义与取值。原Eq.(31)是对全国总供给与总需求X的比例约束，Eq.(32)是对各省i自身供给与省内需求Vi的比例约束，二者作用对象不同意义也不同，并非重复约束；对于约束Eq.(31)与Eq.(32)设置参考Wang等人 ADDIN NE.Ref.{80A36546-D6B9-42B7-862A-958140523F9C}[1,2]的研究内容，来保证服务器总数尽可能满足国家层面与省级层面的实际需求，保证供应链的稳定性。对于区间[γ ，γ ]、[η，η]的取值是参考了xxxx的研究，分别取的是xxxx。
+The revised objective now reads:
+（1）Constraint on total national rack server construction. Including the rack servers that have already been built and deployed, the total number of servers should exceed γ times the demand and should not exceed γ times the demand. This constraint is expressed by Eq. (31), where X represents the total national demand for rack servers, and Ai denotes the number of existing standard rack servers in province i. The overall server ratio (γ, γ) represents the supply buffer, ensuring that the total number of existing and newly added servers remains as close as possible to actual demand, thereby guaranteeing the stability of the supply system  ADDIN NE.Ref.{992E9C15-ADC1-409B-93D3-B513E05444DA}[2].
+γ X≤iAi+mxi,mam≤γ X#####
+ηVi≤Ai+mxi,mam-j,j≠idi,jyi,j+i,i≠jdi,jyi,j≤ηVi
+(2) Constraint on total provincial rack server construction. The term i,i≠jdi,jyi,j represents the number of racks provided by other provinces to province i, while j,j≠idi,jyi,j represents the number of racks provided by province i to other provinces. yi,j is a binary variable (0/1 variable) indicating whether province i serves province j. Vi denotes the rack demand of province i. This constraint is expressed by Eq. (32). The demand satisfaction rate (η, η) represents the minimum threshold for meeting provincial rack demand, ensuring that the rack servers built or allocated to each province can meet local demand  ADDIN NE.Ref.{DC8F2576-FFF1-472F-AEE4-90106731BAF1}[1,2].
+ηVi≤Ai+mxi,mam-j,j≠idi,jyi,j+i,i≠jdi,jyi,j≤ηVi#32
+Page and line numbers: Page 7, lines 202-211, Eq.8;（样例）
+
+4.2 Eq.(34)：min函数的线性化
+我们将在修订稿中对Eq.(34)进行修订并进行线性化。原手稿中Eq.(34)使用了min⋅,⋅非线性算子，不符合标准MIP规范。因此，我们修订稿中将Eq.(34)拆分为两条标准线性约束。根据min函数的性质，此式与下述两条独立线性约束完全等价：
+jdi,jyi,j≤Ai+mxi,mam
+idi,jyi,j≤Vj
+The revised objective now reads:
+
+Page and line numbers: Page 7, lines 202-211, Eq.8;（样例）
+
+4.3. PUE约束Eq.(36)中“+∞”条件的重新表述
+PUE约束本意是表达“若省i选择建设规模m的ICC，其实际PUEEi,m必须不超过当地该规模下的PUE上限PUEi,mmax，否则该方案不可行”。但以分段函数加“+∞”的方式表达可行性约束，并非标准MILP语言，也容易引起“目标函数中是否真的会出现无穷大”的误解。因此，我们已将其改写为一条直接的线性不等式约束。
+
+4.4 Eq. (38)比值约束的线性化
+我们对Eq. (38)的线性化分为两个步骤：首先，考虑到智能计算中心的服务器总数（存量加上新增量）严格为正值（即Ai+mxi,mam>0），我们可以将分母直接乘至不等式右侧，方向保持不变，从而转换成线性不等式。其次，针对公式中出现的连续变量di,j与二进制变量yi,j相乘的di,jyi,j非线性交叉项问题，我们也已在模型中通过引入大M法添加了辅助链接约束，确保模型的绝对线性化。
+原稿Eq. (38)（服务器闲置率约束）为：
+
+jdi,jyi,jAi+mxi,mam≥μ
+首先，针对比值形式，将分母（恒为正）移至不等号右侧，化为线性不等式：
+Ai+mxi,mamμ≤jdi,jyi,j
+其次，以便Gurobi等求解器进行求解，我们采用大M法将其转换成线性约束。引入一个辅助连续变量zi,j，并令zi,j=di,j⋅yi,j。假设连续变量di,j的物理上限为一个已知的大正数Mi,j（即0≤di,j≤Mi,j），则可以通过引入以下四条线性链接约束来等价替换该非线性项：
+zi,j≤di,j
+zi,j≤Mi,j⋅yi,j
+zi,j≥di,j-Mi,j⋅1-yi,j
+zi,j≥0
+当两省间无服务关系yi,j=0时：约束(2)变为zi,j≤0，结合约束(4)zi,j≥0，迫使zi,j=0。此时约束(1)变为0≤di,j，约束(3)变为0≥di,j-Mi,j⟹di,j≤Mi,j，这两条约束对di,j仅起到常规边界限制作用。结果完全符合di,j⋅0=0。当yi,j=1时（两省间存在服务关系）：约束(2)变为zi,j≤Mi,j（常规上限）。约束(3)变为zi,j≥di,j-0⟹zi,j≥di,j。结合约束(1)zi,j≤di,j 与约束(3)zi,j≥di,j，迫使 zi,j=di,j。结果完全符合di,j⋅1=di,j。
+经上述项调整，约束条件已经被全部表述未线性化构成标准MILP。通过您的建议提高了文章的可读性与复现性。由于原稿公式表达滞后于代码实现，代码中就是按线性大M形式实现的，因此，确认上述线性化形式与实际求解所采用的约束完全一致，因此本次修改并不改变论文中报告的数值结果。相关修改已体现在修改稿第4.2节“约束条件”部分。
+
+
+The revised objective now reads:
+Page and line numbers: Page 7, lines 202-211, Eq.8;（样例）
+
+
+Comment 5: The gross output value contribution indicator requires stronger economic justification.
+In Lines 318–345, the manuscript uses an input-output model to measure the gross output value contribution share of ICC investment. However, the current formulation appears to treat construction, operation, and end-of-life expenditures as positive output contributions without sufficiently considering opportunity costs, displacement effects, sectoral capacity constraints, and time lags. This may overestimate the macroeconomic benefits of ICC expansion. The authors should provide stronger theoretical justification and conduct sensitivity analysis on the input-output multipliers.
+意见5：总产值贡献指标需要更充分的经济学论证。在第318–345行，稿件使用投入产出模型来衡量ICC投资的总产值贡献份额。然而，目前的表述似乎将建设、运营和寿命终期支出视为正向产出贡献，而未充分考虑机会成本、替代效应、部门产能限制和时间滞后。这可能会高估ICC扩张的宏观经济效益，作者应提供更强有力的理论依据，并对投入产出乘数进行敏感性分析。
+
+这些经济因素很重要
+多查论文，这些不行，看哪些因素能衡量
+投入产出乘数计算的正确性要经得起检验
+考虑一个因素和考虑多个因素对产值贡献这个值的影响，波动范围。
+事前：机会成本、替代效应、部门产能限制和时间滞后添加对投入产出乘数进行敏感性分析。
+事后：标准差检验
+
+回答：感谢审稿人对总产出价值贡献份额指标的经济学合理性提出的重要意见。审稿人指出，模型将建设、运营、退役处置三阶段支出均视为正向产出贡献，而未充分考虑机会成本（若该资金未投入ICC，转而投向其他产业是否会产生更高或更低的乘数效应）、替代效应（ICC建设是否会挤占其他项目对建筑材料、电力、劳动力等要素的需求）、部门产能限制和时间滞后，您提出的意见丰富了我们的视野边界，为我们的方法论提供了关键性改进方向。
+(1)关于机会成本与替代效应
+我们认同标准的需求驱动IO模型在结构上无法回答"反事实"问题（即资金的替代用途），这是该类模型的共同局限，而非本研究特有的缺陷。我们将在第3.3节末尾增加一段“指标适用范围与局限性”说明：
+本指标计算的是ICC投资在现行产业关联结构下产生的总产出拉动效应，未对该资金的机会成本（即若投向其他产业部门可能产生的替代性产出拉动）进行比较，也未对ICC建设可能对其他产业部门形成的要素位移（如对建筑、电力等部门产能的竞争性占用）进行净化处理。因此，M应被理解为ICC投资对区域经济结构的总量拉动强度指标，而非扣除替代效应后的净增量指标。在政策应用中，该指标更适合用于不同选址/配置方案之间的相对比较（即哪种方案对区域经济结构的拉动相对更强），而非用于估算ICC投资相对于“不投资”情景下的净宏观经济增益。
+
+(3) 关于产业部门产能约束
+标准列昂惕夫模型假设各部门存在闲置产能、可以无约束地按比例扩张中间投入供给（即技术系数矩阵Ai不随产出规模变化）。当ICC投资规模较大、且集中于电力、建筑等部门时，这一假设可能不成立，从而高估乘数效应。我们将在局限性说明中补充：
+此外，模型采用的技术系数矩阵Ai假定各产业部门在面对ICC投资引致的新增需求时具备足够的产能弹性，未显式刻画电力、建筑材料等关键上游部门可能存在的产能约束。若实际产能不足，部分需求增量将通过价格上涨或进口替代而非本地产出扩张得以满足，从而使M的实际值低于模型估计值，本研究的M应视为在产能充裕假设下的理论上限估计。
+
+(4) 关于时滞效应
+原稿的输入产出表为某一基准年份的静态截面数据，而ICC的建设、运营、退役处置跨越18年的服务期。当前公式未能体现“投资发生时点”与“产出拉动实现时点”之间的时滞效应。
+我们将补充说明：
+“本研究采用的投入产出表反映的是基准年份的产业关联结构，智算中心带动的总产出（CH）的计算未对建设期、运营期、退役处置期各阶段投入发生的时点进行区分或贴现处理，即隐含假设各阶段投入对总产出的拉动效应在当期即时实现，未考虑跨期时滞和产业结构的动态演化。这与本研究在LCC/TSCC核算中采用的动态折现框架（Eq. (19)–(24)）存在处理口径上的差异，是 $M$ 指标作为静态总量指标的固有局限。”
+
+(5) 关于"对投入产出乘数进行敏感性分析"的具体落实
+我们将在第5节增加一项专门针对IO乘数稳健性的敏感性分析，区别于原稿第5.3节"可接受的总产出价值贡献份额"（该节是对约束阈值 $M$ 取值的情景分析，并非对乘数本身的稳健性检验）。新增分析设计如下：
+对各省技术系数矩阵 $A^i$（及对应的列昂惕夫逆矩阵 $L^i$）施加 $\pm10%$ 的扰动，模拟产业关联结构的不确定性（例如反映不同基期投入产出表年份之间的结构差异），重新计算基准情景下的 $CH$ 与 $M$；
+报告 $M$ 在扰动区间内的变化范围，验证文中所报告的 0.3087% 等结果对乘数取值的敏感程度，以及该敏感程度是否会改变第5节中关于选址布局的定性结论。
+我们将把该敏感性分析的结果以新增表格形式呈现在附录中，并在正文第5.3节中引用该结果，说明"即便考虑投入产出乘数 $\pm10%$ 的不确定性，本研究关于ICC选址与产出贡献份额的定性结论（如西部地区拉动效应相对较弱、中部地区拉动效应较强等）依然稳健"。
+修改总结：经上述(1)–(5)项修改，第3.3节"总产出价值贡献份额"将明确该指标的总量/总产出性质及其与净福利指标的区别，补充机会成本、位移效应、产能约束、时滞效应四方面的理论局限性说明，并在第5节增加针对列昂惕夫乘数本身的 $\pm10%$ 敏感性分析，以回应审稿人关于"理论依据"和"稳健性检验"的双重要求。
+
+Comment 6: The policy thresholds and conclusions should be stated more cautiously.
+In Lines 789–831, the manuscript recommends controlling propagation latency within 5 ms and keeping the thermal power share below 25%. These are useful scenario-based findings, but they are derived from selected parameter settings and simplified assumptions. The authors should present these values as exploratory planning insights rather than general thresholds. Additional robustness analysis is needed for key parameters such as demand growth, PUE, rack power consumption, server lifetime, SCC pathway, discount rate, electricity price, and grid transition assumptions.
+意见 6：政策阈值和结论应更谨慎地陈述。在第789–831行，稿件建议将传输延迟控制在5毫秒以内，并将火电比例保持在25%以下。这些是有用的基于情景的发现，但它们源自特定的参数设置和简化假设。作者应将这些值作为探索性的规划见解，而不是普遍的阈值来提出。需要对需求增长、PUE、机架功耗、服务器寿命、SCC路径、贴现率、电价和电网转型假设等关键参数进行额外的稳健性分析。
+回答：我们衷心感谢审稿人的认真阅读。审稿人指出的问题切中要害——我们在第789–831行将“5 ms传播时延“和“热电占比低于25%”作为决策建议提出时，措辞确实偏向"一般性结论/阈值"，而这两个数值实际上是在特定参数设定（需求增长率、PUE、单机架功耗、服务器使用寿命、SCC路径、折现率、电价及电网转型路径等）下，通过情景分析得到的"相对最优区间"，其稳健性尚未在更广泛的参数空间内得到验证。我们将从(1)结论措辞的谨慎化和(2)补充关键参数的稳健性分析两方面对稿件进行修改，具体如下：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reviewer 2: 
+The manuscript addresses an important and timely topic concerning the green expansion and spatial configuration of intelligent computing centers. The integration of life-cycle cost, carbon externalities, input-output-based economic contribution, and location optimization is potentially valuable for environmental infrastructure planning. However, the manuscript still contains several methodological and interpretive issues that should be addressed before the conclusions can be considered sufficiently reliable.
+该稿件讨论了一个关于智算中心绿色扩展及空间配置的重要且及时的主题。综合考虑生命周期成本、碳外部性、基于投入产出的经济贡献和选址优化，对于环境基础设施规划具有潜在的价值。然而，稿件中仍包含一些方法论和解释上的问题，在确信其结论足够可靠之前需要予以解决。
+
+Comment 1. The manuscript repeatedly uses the term LCA, but the current method appears to be closer to life-cycle carbon accounting or life-cycle greenhouse gas accounting rather than a complete LCA. The authors should clarify whether this study conducts a full LCA or a life-cycle carbon-emission assessment.（稿件中反复使用了LCA一词，但目前的做法似乎更接近生命周期碳核算或生命周期温室气体核算，而不是完整的生命周期评估（LCA）。作者应澄清本研究究竟是在进行完整的LCA，还是生命周期碳排放评估。）
+
+Respones：非常感谢审稿人提出的这一建设性意见。本文确实存在生命周期评估LCA与生命周期碳核算的混淆问题。本文是一篇关于管理科学与环境工程的交叉探索类文章，重点是对不同的方案进行了比较决策，采用了简单的生命周期碳排放评估，咱们敏感分析的时候也检验了关键的参数影响（对布局、LCSC、宏观经济贡献）
+
+中国建筑碳排放核算标准相关标准在覆盖范围较少、边界划定原则不清、碳抵消结果报告不当、数据不确定性评估缺失等不足本问参考文献 ADDIN NE.Ref.{7D6AF9E0-5683-4B47-B3F4-10BCFB02166C}[3]，经过文献查阅以及现实情况我们发现建筑作为生命周期核算重要参数的建材碳排放因子存在覆盖种类少、缺乏透明度的问题；中国建筑行业的产品种类规则短缺，使用行业水平碳排放因子无法充分反映不同建材对建筑碳排放结果的影响 ADDIN NE.Ref.{24421A7B-6626-4347-AAC7-E9B314ED91B9}[4]，进而智算中心的碳排放核算方法更加的困难。因此，生命周期碳排放核算方法
+碳排放成本
+
+参考文献：
+2. The functional unit or reference unit of the life-cycle assessment is not clearly defined. This makes it difficult to understand the basis on which life-cycle emissions, costs, and social carbon costs are compared across different ICC expansion schemes.
+生命周期评估的功能单元或参考单元定义不明确。这让人难以理解在不同的ICC扩建方案中，比较生命周期排放、成本和社会碳成本的基础是什么。
+3. The system boundary of the life-cycle assessment is insufficiently described. Although the manuscript mentions material production, construction, operation, maintenance, and demolition stages, the included and excluded processes should be more explicitly specified.
+生命周期评估的系统边界描述不充分。尽管稿件提到了材料生产、施工、运营、维护和拆除阶段，但应更明确地说明所包含和排除的过程。
+4. The life-cycle inventory is not sufficiently transparent. Key data such as material quantities, server-related emission factors, infrastructure emission factors, energy-use assumptions, and end-of-life parameters should be clearly reported with units and data sources.
+生命周期清单不够透明。材料数量、与服务器相关的排放因子、基础设施排放因子、能源使用假设和寿命终期参数等关键数据应清楚地报告单位和数据来源。
+
+5. The manuscript should distinguish more carefully between life-cycle carbon emissions, LCA, SCC, TSCC, and LCSC. At present, these concepts are closely linked but not always clearly separated, which may confuse readers about what is being calculated at each stage.
+稿件应更仔细地区分生命周期碳排放、LCA、SCC、TSCC和LCSC。目前，这些概念联系紧密但并不总是界限分明，这可能会让读者对每个阶段究竟在计算什么感到困惑。
+
+6. The calculation of operational carbon emissions and TSCC requires further clarification. Operational carbon emissions appear to be treated over the full life-cycle period, while the TSCC formula also multiplies operational emissions by year-specific SCC values across the life cycle. This creates a potential risk of repeated counting of operational emissions.
+运营碳排放和TSCC的计算需要进一步澄清。运营碳排放似乎被处理为涵盖整个生命周期时段，而TSCC公式在整个生命周期中也是用运营排放乘以特定年份的SCC值。这产生了重复计算运营排放的潜在风险。
+
+7. The time structure of the TSCC calculation is unclear. Construction-stage emissions, annual operational emissions, maintenance-related emissions, and end-of-life emissions occur at different times and should be treated consistently when multiplied by SCC values.
+TSCC计算的时间结构不清晰。建设阶段的排放、年度运营排放、与维护相关的排放和寿命终期排放发生在不同时间，在乘以SCC值时应进行一致的处理。
+画个横轴
+8. The units and monetary basis of SCC and TSCC are not sufficiently clear. The manuscript should clarify the units of SCC, the emission units to which SCC is applied, and whether SCC values are discounted or undiscounted.
+SCC和TSCC的单位以及货币基础不够清晰。稿件应明确SCC的单位、应用SCC的排放单位，以及SCC值是已折现还是未折现的。
+
+9. The relationship between LCC and TSCC should be clarified. Since LCSC is constructed by adding LCC and TSCC, the authors should ensure that both components are expressed using the same monetary basis and time-value treatment.
+LCC和TSCC之间的关系应予澄清。既然LCSC是由LCC和TSCC相加构成的，作者应确保这两个组成部分使用相同的货币基础和时间价值处理方法进行表达。
+
+
+关系：智算中心的成本不仅仅体现在全生命周期成本建设和运营等企业成本，还应该包括它带来的环境损失，这部分可视为产品的“隐性成本”。共同构成智算中心的成本。
+LCC《 LCA
+
+TSCC《 LCA+SCC
+
+10. The relationship between the carbon-related component in electricity prices and the TSCC calculation is unclear. The energy cost equation includes a carbon-related electricity price component, while the model later adds TSCC as an external climate damage cost. This raises a possible double-counting concern that should be explicitly addressed.
+电价中与碳相关的部分和TSCC计算之间的关系不清晰。能源成本等式中包含与碳相关的电价成分，而模型随后又将TSCC作为外部气候损害成本加入。这引发了可能的重复计算问题，应该明确加以解决。
+回复：在计算能源成本时已经将各省份的碳税成本部分减去了，如手稿中的公式（8）所示。这可能在一定程度上避免了您提出的重复计算问题。
+1：区别：碳税和TSCC的不是一个
+2.为什么解释一下为什么先减后加
+
+11. The treatment of the thermal-power proportion requires further clarification. The manuscript should make clear whether the thermal-power proportion is an optimization decision variable, a scenario parameter, or a fixed provincial input.
+对火电比例的处理需要进一步说明。稿件应明确火电比例是优化决策变量、情景参数，还是固定的省级输入数据。
+目的：基于现有的，最优布局；探索更优的，当成决策变量；研究敏感性分析
+
+
+
+12. The optimization model lacks a complete and consistent notation table. All sets, indices, parameters, decision variables, units, and variable domains should be clearly summarized to improve readability and reproducibility.
+优化模型缺乏一个完整且一致的符号表。所有的集合、索引、参数、决策变量、单位和变量定义域都应清晰总结，以提高可读性和可复现性。
+
+
+
+13. The service relationship variable (yi,j) is used as a binary variable, but the variable-domain statement does not clearly define it as binary. This should be corrected in the mathematical formulation.
+服务关系变量（yi,j）被用作二元变量，但在变量定义域说明中并没有明确将其定义为二元变量。这应在数学表达式中予以纠正。
+
+14. The model does not clearly provide a linking constraint between the service-flow variable (di,j) and the binary service-relationship variable (yi,j). Without such a constraint, the model may allow positive service flows between provinces even when the corresponding service relationship is not feasible.
+模型没有清楚地提供服务流量变量（di,j）和二元服务关系变量（yi,j）之间的连接约束。没有这种约束，模型可能会允许在相应的服务关系不可行的情况下，省份之间仍然存在正向的服务流量。
+
+回答：非常感谢审稿人提出的这一深刻问题。在模型建设过程中并未清晰的提供服务流量变量（di,j）和二元服务关系变量（yi,j）之间的连接约束。所以我们在修订稿中新加了关于两者的约束条件，并针对分子中di,jyi,j双线性项采用M法将其线性化。
+为彻底解决该问题，我们在约束体系中新增一条连接约束（拟编号为Eq. (32a)，置于Eq. (32)之后）：
+0≤di,j≤Dmaxyi,j,∀i≠j
+
+我们针对di,jyi,j这一双线性项——该项同样出现在Eq. (32)中，也是第14条意见所指出的"模型未明确给出服务流变量di,j与服务关系二元变量 yi,j 之间连接约束"的根源。其中Dmax为单一省份间可能调配的机架服务器数量的合理上界（例如取maxiAi+mxi,mmaxam）。该约束的含义为：当 yi,j=0（省 i 与省 $j$ 之间不存在服务关系）时，强制 di,j=0；当yi,j=1时，di,j 可在 0,Dmax 内自由取值，由其余约束（如Eq. (34)、(38)等）进一步确定其实际数值。
+
+在该连接约束成立的前提下，对任意可行解都有di,jyi,j≡di,j（yi,j=0时两端均为0，yi,j=1时两端相等）。因此，Eq. (32)与Eq. (38)中所有形如 di,jyi,j 的双线性项均可直接替换为 di,j（即第(1)点中Eq. (32)与上文Eq. (38)中已采用的形式），从而完全消除了模型中的双线性项，使整个位置-配置优化模型成为关于 xi,m（整数）、yi,j（0-1）、di,j（连续）、zi,m（0-1）的标准混合整数线性规划（MILP）模型，可直接由Gurobi求解，无需任何分支定界之外的特殊处理。
+
+经上述(1)–(4)项调整，Eq. (31)–(38)及新增的Eq. (32a)均已改写为标准线性等式/不等式形式，模型整体构成标准MILP。我们已重新核对求解代码（代码中本就是按线性大M形式实现的，原稿公式表达滞后于代码实现），确认上述线性化形式与实际求解所采用的约束完全一致，因此本次修改不改变论文中报告的数值结果，仅消除了公式表达与标准MILP形式之间的不一致。相关修改已体现在修改稿第4.2节"约束条件"部分。
+
+
+
+
+约束：先y后d
+15. The provincial demand, supply, inflow, and outflow constraints should be checked carefully. Some index directions are not sufficiently clear, and the relationship among local supply, exported service capacity, imported service capacity, and provincial demand should be written more explicitly.
+应仔细检查省级的需求、供应、流入和流出约束条件。有些索引方向不够清晰，本地供应、出口服务能力、进口服务能力和省级需求之间的关系应写得更加明确。
+
+16. The PUE constraint is not expressed in a standard mathematical programming form. The use of "+∞" to represent infeasible options is not sufficiently rigorous for a Gurobi-based optimization model.
+PUE约束未用标准的数学规划形式表达。使用“+∞”来表示不可行的选项对于基于Gurobi的优化模型来说不够严谨。
+找个国家底线值
+17. The epsilon-constraint transformation is not sufficiently clear. The transformed objective function contains symbols that are not fully defined, and the contribution constraint is not clearly connected to the previously defined gross output value contribution share.
+ϵ-约束（epsilon-constraint）变换不够清晰。转换后的目标函数包含了未完全定义的符号，并且贡献约束与之前定义的总产值贡献份额联系不够明确。
+18. The interpretation of the gross output value contribution share should be more cautious. Gross output is not equivalent to value added, GDP contribution, net economic benefit, or welfare improvement. This indicator should be interpreted as an output-multiplier-based activity measure rather than as a direct measure of net economic or social benefits.
+对总产值贡献份额的解释应更为谨慎。总产出并不等同于增加值、GDP贡献、净经济效益或福利改善。该指标应被解释为基于产出乘数的活动衡量标准，而不是净经济或社会效益的直接衡量标准。
+
+1.投入产出乘数
+2.扯得太大了  产业带动效益扯太多了
+
+19. The scenario design should be presented more systematically. The manuscript refers to different combinations of economic attitude parameters, latency scenarios, and power-supply scenarios, but the total number and structure of scenarios are not always easy to follow. A clear scenario matrix would improve transparency.
+情景设计应更加系统地呈现。稿件提到了经济态度参数、延迟情景和供电情景的不同组合，但情景的总数和结构并不总是易于理解。一个清晰的情景矩阵将提高透明度。
+1.情景设置情境中存不存在
+2.绘制一个清晰的情景矩阵，查一个
+
+20. The reproducibility of the optimization results should be strengthened. The manuscript reports the use of Python and Gurobi, but key information such as Gurobi version, model size, number of variables and constraints, optimality gap, solver status, tolerance settings, input data files, SCC trajectories, and input-output sector mapping is missing.
+ 应加强优化结果的可复现性。稿件报告使用了Python和Gurobi，但缺失了Gurobi版本、模型规模、变量和约束的数量、最优性差距（optimality gap）、求解器状态、容差设置、输入数据文件、SCC轨迹和投入产出部门映射等关键信息。
+采用的学术版
+ ADDIN NE.Bib
+REFERENCES
+[1] Fengjuan Wang and Chengwei Lv. 2024. A data center expansion scheme considering net-zero carbon operation: Optimization of geographical location, on-site renewable utilization and green certificate purchase. Socio-Econ. Plan. Sci. (2024), 101789. DOI 10.1016/j.seps.2023.101789
+[2] Fengjuan Wang, Chengwei Lv, and Jiuping Xu. 2023. Carbon awareness oriented data center location and configuration: An integrated optimization method. Energy (2023), 127744.
+[3] Hui Gao, Mingsong Sun, Li Zuo, and Yiwen Liang. 2026. An LCA-BIM-GIS integrated model for net carbon emission quantification of buildings. J. Build. Eng. (2026), 115392. DOI https://doi.org/10.1016/j.jobe.2026.115392
+[4] 郭静, 白月阳, 齐剑川, 李楠, and 徐明. 2025. 建筑生命周期碳排放核算方法的国际标准比较. 中国人口·资源与环境 (2025), 55-67.
+

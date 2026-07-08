@@ -1,0 +1,1010 @@
+doi:10.12006/j.issn.1673-1719.2016.249
+姜彤, 赵晶, 景丞, 等. IPCC 共享社会经济路径下中国和分省人口变化预估 [J]. 气候变化研究进展, 2017, 13 (2): 128-137
+IPCC 共享社会经济路径下中国和分省人口变化预估
+姜  彤1,2，赵  晶1，景  丞1，曹丽格2，王艳君1，孙赫敏1,2，王安乾3,4，
+黄金龙3,4，苏布达1,2,3，王  润5
+1 南京信息工程大学气象灾害预报预警与评估协同中心/ 地理与遥感学院，南京 210044；
+2 中国气象局国家气候中心，北京 100081；
+3 中国科学院新疆生态与地理研究所荒漠与绿洲生态国家重点实验室，乌鲁木齐 830011；
+4 中国科学院大学，北京 100049；
+5 湖北大学资源和环境学院，武汉 430062 
+气候变化研究进展
+第13 卷 第2 期 
+2017 年3 月
+CLIMATE CHANGE RESEARCH
+Vol. 13  No. 2
+March  2017
+摘 要：基于2010 年第六次中国人口普查数据，采用IPCC 发布的可持续发展(SSP1)、中度发展(SSP2)、局部或不一
+致发展(SSP3)、不均衡发展(SSP4)、常规发展(SSP5) 这5 种共享社会经济路径，率定人口- 发展- 环境分析(PDE)
+模型中的人口生育率、死亡率、迁移率、教育水平等参数，对2011—2100 年中国和31 个省( 区/ 市) 人口变化进行预估。
+结果表明：1) 不同SSP 路径下，中国人口均呈先增加后减少的趋势，在高气候变化挑战的SSP3 路径下人口最多，于
+2035 年达到峰值，约14.27 亿；在以适应挑战为主的SSP4 路径下，人口出现最小值7.02 亿。2) SSP1、SSP4 和SSP5
+路径下人均寿命长，人口老龄化严重，其中SSP1 和SSP5 路径下人均教育水平高，到2100 年教育水平在大学以上人
+口约占总人口的60%；SSP2 路径下各年龄段分布比较均衡；SSP3 路径下新生人口数量较多，劳动力充足，但教育水
+平较低。3) 到2100 年，SPP3 路径下广西人口呈现最大值1.13 亿，在其他路径下广东人口最多，达1.29 亿。
+关键词：气候变化；人口预估；共享社会经济路径(SSPs)；省( 区/ 市)；中国
+收稿日期：2016-12-22；修回日期：2017-02-02
+资助项目：国家自然科学基金(41571494)；中国气象局气候变化创新团队项目
+作者简介：姜彤，男，研究员，jiangtong@cma.gov.cn
+引 言
+人类活动所引起的温室气体浓度上升被认为是
+导致全球变暖的主要因素[1]。20 世纪的人口剧增
+和经济快速增长，给气候环境带来前所未有的压力，
+人口问题成为气候变化研究的重要领域。将人口数
+量结构的变化与气候变化政策制定和建议动态结合
+起来，对控制温室气体排放、适应和减缓气候变化
+的措施制定，以及在全球和国家层面努力应对气候
+变化有着重要的作用。
+2010—2015 年，中国大陆地区总人口由13.40
+亿增加到13.75 亿。作为目前世界人口最多的国家，
+在人口数量增长、结构变化等方面有着特殊的政
+策制度约束，同时人口省际迁移也有着中国特色。
+众多学者利用多种模型开展了人口预估研究[2-4]。
+近年来，随着“全面二孩”政策的实施，生育率
+的变化成为人口预估中最核心的问题。部分学者
+调查分析了中国育龄人群平均意愿生育子女数[5-6]，
+并通过对“单独二孩”政策实施后中国人口变化
+研究发现，政策的改变使得中国生育率有一定幅
+度上升，由于生育观念、教育成本等因素的影响，
+产生人口暴涨的可能性较小[7-8]。在二孩政策开始
+数年内，将形成一个新增人口的生育高峰期[9]，但
+最终总和生育率会保持在较为稳定的水平[10-11]。当
+www.climatechange.cn
+气
+候
+变
+化
+影
+响
+能源依赖度；中度发展(SSP2)：维持近几十年现
+状发展趋势，实现部分发展目标，逐步减少对化石
+燃料的依赖；局部或不一致发展(SSP3)：区域差
+异特征明显，贫富差距大，未能实现发展目标，对
+化石燃料依赖较大；不均衡发展(SSP4)：以适应
+挑战为主，国家内部和国家之间高度不平等，人数
+相对少且富裕的群体产生大部分的排放量；常规发
+展(SSP5)：以减缓挑战为主，强调传统的以经济
+发展为导向的方式，通过追求自身利益解决社会和
+经济问题。
+SSPs 将气候变化政策纳入到气候变化风险评
+估，更好地满足气候变化影响、风险、适应与减
+缓闭合研究[15]。SSPs 已广泛应用于人类发展、水
+资源、能源、经济等与未来社会经济发展有关的
+预估研究[16-19]。每个SSP 既包含辐射强迫特征，
+也含有社会经济发展的假设，其中人口变化更是
+情景最先考虑的要素。在全球尺度上，对5 种SSP
+路径下的人口变化开展了预估分析[20-22]。世界人口
+变化预估表明：21 世纪中期，人口最多（SSP3 路
+径) 与最少（SSP1 路径) 将相差15 亿人；21 世纪
+末，SSP3 和SSP1 路径下的全球人口分别达到126
+亿人和69 亿人[23]。通过对当前社会经济状况的调
+查分析，可以建立不同发展路径下的人口变化预估
+模型，在不同SSP 路径下，对包括年龄、性别、
+受教育程度等因素的人口变化开展预估。
+SSPs 路径发布以来，国际应用系统分析研究
+所(IIASA) 对于不同路径下的人口假设进行了深入
+研究，通过一系列的会议与讨论[23-24]，将未来生育
+率、死亡率和迁移率设定了低、中、高3种发展水平，
+教育程度设定了快速发展、全球趋势发展、恒定入
+学率、恒定入学人数4 种发展水平。同时将全球国
+家分为低生育率国家( 总和生育率≤2.9)、高生育
+率国家( 总和生育率>2.9) 和OECD 国家(OECD
+成员国和世界银行定义的高收入国家) 3 种类型，
+给出了不同类型国家的5 种SSP 路径下生育率、
+死亡率、迁移率和教育程度的未来变化假设。中国
+被归类于低生育率国家，其不同SSPs 路径下的人
+口假设如表1 所示，每种SSP 分别对应一个生育率、
+死亡率、迁移率的组合：SSP1 路径下保持可持续
+图1  5 种共享社会经济路径面临的减缓和适应挑战
+Fig. 1  The mitigation and adaptation challenges under 
+the five SSPs
+前研究多集中在人口数量变化的预估，未考虑不同
+社会经济发展路径，也没有考虑与气候变化适应和
+减缓的关联。
+本文基于2010 年中国第六次人口普查数据和
+2011—2014 年人口总和生育率数据，结合全面二孩
+等政策现状，采用人口- 发展- 环境分析(PDE) 模
+型，通过率定与5 种共享社会经济路径(SSPs) 相关
+的中国和分省总和生育率、人均寿命、迁移人口、
+教育水平等模型参数，预估到2100 年中国和31 个
+省( 区/ 市) 的人口数量、年龄、性别、教育的分
+布和组成，研究中国及分省的人口演变趋势。
+ 
+1  模型与参数率定
+1.1  IPCC 共享社会经济路径(SSPs) 与人口预估
+气候情景是气候模拟的基础，是对未来世界不
+同发展状况的科学假设。IPCC 先后发展了SA90、
+IS92、SRES 等情景，2007 年IPCC 发布典型浓
+度路径(RCPs)，用来描述温室气体浓度情景[12]。
+2010 年，为了更好地与决策者对话，IPCC 综合考
+虑人口、经济、技术进步、资源利用等因素，提出
+了SSPs，用来定量描述气候变化与社会经济发展
+路径之间的关系[13-14]。IPCC 从未来社会经济面临
+的适应和减缓气候变化的挑战出发，确定5 种共享
+社会经济路径( 图1)，分别是可持续发展(SSP1)：
+考虑可持续发展目标，同时降低对资源强度和化石
+减缓挑战
+适应挑战
+常规发展
+（减缓挑战为主）
+SSP5
+局部或不一致发展
+（高挑战）
+SSP3
+中度发展
+（中等挑战）
+SSP2
+可持续发展
+（低挑战）
+SSP1
+不均衡发展
+（适应挑战为主）
+SSP4
+www.climatechange.cn
+2 期 
+129
+姜彤，等：IPCC 共享社会经济路径下中国和分省人口变化预估
+的发展，重视教育，医疗和教育水平高，导致低生
+育率和较高的人均寿命，迁移率维持在中等水平；
+SSP2下，各国维持了当前的人口发展水平，生育率、
+死亡率和迁移率及教育程度都维持当前的发展趋势
+（与SSP1 可持续发展相对立)；SSP3 下人口转变
+相对滞缓，对于OECD 国家以外的两种类型国家，
+教育水平仅维持当前的入学率，低的教育水平带来
+更高的生育率，人均寿命低，区域间人口流动少，
+迁移率被认定为低水平；SSP4 为不均衡发展的世
+界，高生育率国家维持高生育率，在非OECD 国家，
+教育发展缓慢，而低生育率国家生育率依旧较低，
+死亡率和迁移率维持目前的中等水平；SSP5 下经
+济的快速发展带来与SSP1 相似的生育率、死亡率
+和教育发展状况，但高度的市场化和全球化使得这
+一路径下迁移率较高。
+资助该研究所的研究项目后，该模型也广泛用于中
+国人口变化的预估研究[30-33]。
+PDE 模型将人口按照不同的年龄、性别、区
+域、教育水平等作为不同的“状态”。各“状态”
+之间可以相互转换，从而使人口可以在不同“状态”
+间流动，然后沿着出生列队向后自然移动。模型中
+人口增长由自然增长和机械增长两部分组成。自然
+增长即出生与死亡人口之间的差值；机械增长主要
+指迁移人口数，迁入为正值，迁出为负值。某一年
+t+1 岁的人口数Pt+1 为：
+其中Pt' 为上一年t 岁人口数，Dt+1 为当年t+1
+岁人口死亡率，Mt+1 为当年t+1 岁迁移人口。
+某一年（n 年）新生人口数Pn 为：
+                                                      
+其中Pt 为当年t 岁人口数，Rt 为当年t 岁人口
+中女性比例，Ft 为当年t 岁人口生育率。
+PDE 模型对数据要求较高，通过对生育率、
+死亡率、迁移率和教育水平等参数的设定，模拟新
+生人口和不同年龄结构人口的自然梯级移动，并实
+现多状态之间的相互转换。
+1.3  人口预估模型参数率定
+本文采用中国2010 年第六次人口普查中各省
+不同性别、年龄段和教育水平的人口总量、生育率、
+死亡率、迁移人口数据作为初始数据，结合中国当
+前人口政策，对5 个SSP 路径下的分省人口参数（教
+育水平、生育率、死亡率、迁移率）进行了研究。
+1.3.1  生育率
+在IIASA 制定的高、中、低3 种假设中，中
+等假设代表了维持目前的生育率水平，本文考虑二
+孩政策对当前生育率的影响，结合二孩政策后相关
+文献中调查与研究认为中国育龄人群平均意愿生育
+子女数在1.8~1.9 左右[5-6]，二孩政策后，在2016—
+2018 年预计形成一个新增人口的生育高峰期[9]，但
+最后的总和生育率会保持在1.8 左右[10-11]。设定中
+等假设下中国总和生育率逐渐增加至2019 年达到
+表1 IPCC 共享社会经济路径下中国人口预估模型参数
+Table 1  Population assumptions in China under the five SSPs
+人口模型参数
+SSP1
+SSP2
+SSP3
+SSP4
+SSP5
+教育水平
+生育率
+低
+中
+高
+低
+低
+死亡率
+迁移率
+低
+中
+高
+中
+低
+中
+中
+低
+中
+高
+快速发展
+全球趋势发展
+恒定入学率
+恒定入学率
+快速发展
+国际上的人口研究是依据各国的人口增长特
+征，假定各国在不同SSP 路径下的人口生育率、
+死亡率、迁移率等参数方案，在对中国人口预估时，
+采用的是2000 年的人口数据作为初始值，模型计
+算时也没有考虑按照中国人口国情和政策进行参数
+修正。更没有考虑2010 年以来，中国大陆陆续实
+施的单独二孩和全面二孩政策带来的生育率变化。
+1.2  人口- 发展- 环境分析(PDE) 模型
+人口- 发展- 环境分析(PDE) 模型由IIASA
+采用队列预测和多状态生命表扩展而成[25]。该
+模型最初应用于不同经济发展情景的人力资本预
+测[26]。PDE 模型在北非、东南亚、阿拉伯等地区
+开展了人口变化预估研究[27-29]。2002 年中国成为
+IIASA 执行理事会成员，并由国家自然科学基金委
+Pt+1 = Pt' × (1 - Dt+1) + Mt+1。              (1)
+Pn =     Pt × Rt × Ft。                      (2)
+S
+t=15
+49
+气候变化研究进展
+ 2017 年
+130
+www.climatechange.cn
+气
+候
+变
+化
+影
+响
+1.9，而后逐渐降低并于2021 年以后稳定在1.8，
+各省按照普查长表中2010 年总和生育率与中国的
+比值进行折算，各年龄段生育率比例维持2010 年
+水平不变。
+低和高的假设下的人口参数采用维也纳人口研
+究所(VID) 提出的预估方案[34-35]。VID 对41 个低
+生育率国家人口进行分析并输入统计模型，由170
+余位专家进行讨论并提供评估报告，预测2030 和
+2050年不同假设下低生育率国家总和生育率情况，
+与2010 年联合国人口展望发布的结果对比[36]，并
+综合多种预估方案的不确定性后，在维也纳召开的
+专家组会议上提出低/ 高假设下，到2030 年分别
+较中等假设低/ 高20%，至2050 年以后较中等假
+设低/ 高25%，这一方案也应用于IIASA 的人口
+预估假设中。本文根据VID 给出的2030 和2050
+年生育率方案，对逐年3 种假设下生育率差异进行
+线性拟合，并结合各省( 区/ 市) 中等假设下生育
+率计算2010—2100 年各省( 区/ 市) 相应的低/
+高水平的生育率。2010—2050 年3 种假设下中国
+总和生育率见表2，2050 年以后生育率保持不变。
+和分性别的死亡率数据，计算各省( 区/ 市) 的居
+民预期寿命显示，到2050 年各省( 区/ 市) 人均
+寿命均已达到较高水平，之后寿命增加速度减缓，
+设定中等假设下每10 年增加1 岁，低等和高等假
+设与中等假设差距保持不变。
+1.3.3  迁移率
+迁移率的假设基于对全球范围内迁入和迁出人
+口的预估研究[40]，预估采用国家间每5 年的迁移数
+据，建立各国迁入和迁出矩阵，中等假设下维持目
+前迁移率水平，低/ 高等假设下，迁移人口在3 个
+5 年内逐渐减少/ 增加，低等假设下最终迁移人口
+为0，高等假设下最终迁移人口为2010 年的2 倍。
+2010 年人口普查结果中向国外迁出人口和国
+内外籍人口均远小于人口总量，本文的预估研究中
+不考虑国际间的迁移。省( 区/ 市) 间迁移采用了
+普查长表中国按现住地和5 年前常住地分的人口，
+计算近5 年各省( 区/ 市) 迁移人口，其均值作为
+各省( 区/ 市) 迁移率的初始值。
+1.3.4  教育水平
+根据中国人口实际情况和普查结果分析，中国
+居民教育水平分为文盲、小学、中学、大学4 个等
+级，利用人口普查中各省( 区/ 市) 分年龄、分性
+别的教育程度作为初始数据，预估不同教育水平的
+人口。2010 年中国各年龄段的教育程度如图2 所
+示。在IIASA 对未来教育发展的4 种假设中选取
+快速发展、全球趋势发展、恒定入学率3 种假设。
+其中，快速发展代表各省( 区/ 市) 以最快速度扩
+展学校规模，并逐渐趋近于全球教育最发达的国家
+( 韩国或新加坡) 水平，参照联合国对各国教育的
+统计结果[34]，这一过程需要30~40 年。韩国目前
+小学、小学升中学、中学升大学的升学率分别达到
+100%、99.9%、78.0%，在快速发展假设下，设定
+中国各省( 区/ 市) 升学率逐年增加，并在2050
+年以前达到这一教育水平，2050 年以后保持不变。
+恒定入学率假设代表各省( 区/ 市) 不发展或以缓
+慢的速度发展教育，仅维持目前各教育水平的入学
+率，随着人口的增加相应的增加学校数量。人口普
+查数据中，2010 年中国小学、小学升中学、中学
+升大学的升学率分别为96.2%、93.1%、27.4%，在
+2 期 
+131
+姜彤，等：IPCC 共享社会经济路径下中国和分省人口变化预估
+表2 2010—2050 年中国不同等级生育率
+Table 2  Total fertility rate at different levels in China 
+from 2010 to 2050
+生育率
+等级
+1.18
+1.18
+1.18
+2010
+  年
+低
+中
+高
+2015
+  年
+2020
+  年
+2025
+  年
+2030
+  年
+2035
+  年
+2040
+  年
+2045
+  年
+2050
+  年
+1.52
+1.60
+1.68
+1.67
+1.85
+2.04
+1.53
+1.80
+2.07
+1.44
+1.80
+2.16
+1.42
+1.80
+2.18
+1.40
+1.80
+2.20
+1.37
+1.80
+2.23
+1.35
+1.80
+2.25
+1.3.2  死亡率
+中等假设下的死亡率的设定来源于IIASA 给
+出的全球条件收敛模型输出和专家组评估的结果，
+假定各国预期寿命逐渐趋近于各地区间高寿命国家
+水平，这些高寿命国家逐渐趋近于全球最高寿命国
+家( 日本) 水平[37]。模型综合考虑了不同国家死亡
+率的差异并且最终确定预估方案[38-39]，设定中等假
+设下2050 年以前各国人均寿命每10 年增加2 岁，
+在低/ 高等假设下，人均寿命较中等假设每10 年
+高/ 低1 岁。
+基于中国各省( 区/ 市）2010 年不同年龄段
+www.climatechange.cn
+这一假设下，各省维持各自升学率不变。全球趋
+势发展意味着全球各国以当前教育发展速度继续发
+展，是一种介于快速发展和恒定入学率之间的中等
+教育假设。在本文中，这一假设下各省的升学率取
+以上两种假设的均值。
+不同教育水平对居民生育率和死亡率都有影响。
+根据IIASA 统计的全球人口数据统计分析[23, 38]，认
+为教育水平的提高会延迟妇女生育年龄，降低妇女
+生育率；当总和生育率达到1.8 时，不同教育间生
+育率差异会达到1.3；教育水平对死亡率的影响表
+现在受高等教育群体有着更高的人均寿命；不同教
+育间人口寿命差异会达到5 岁，其中文盲和小学教
+育间差异为1 岁，另两种教育水平间差异为2 岁。
+在预估过程中，将不同教育水平作为不同的“状态”，
+将生育率、死亡率和迁移率输入模型进行人口预估，
+按不同年龄段各种“状态”间的转移，模拟分教育
+水平的人口变化。0~4 岁年龄段人口设定为文盲水
+平，5~9 岁、15~19 岁、20~24 岁年龄段时分别根
+据小学、小学升中学、中学升大学的升学率，实现
+不同教育水平间的人口流动。
+2  研究结果
+5 种SSPs 路径下中国人口总数预估结果如图
+3 所示。5 种SSP 路径下人口均呈现先增加再减少
+的趋势，其中SSP1、SSP2 和SSP5 路径，人口将
+在2030 年左右达到峰值，分别是13.93 亿、14.09
+亿和13.93 亿人；SSP3 和SSP4 路径下人口分别在
+2035 年和2025 年左右达到峰值14.27 亿和13.88
+亿人，较2010 年的13.40 亿增加0.48 亿~0.87 亿。
+SSP3 路径下人口变化趋势较其他路径略有不同，
+主要表现在2090 年以后，人口将会有小幅度的增
+加。到2050 年时，不同路径间差异较小，人口最
+多的SSP3 与人口最少的SSP4 间相差1.22 亿人；
+到2100 年时，SSP1~5 路径下分别将达到7.46 亿、
+9.70 亿、12.91 亿、7.02 亿和7.46 亿人，SSP3 与
+SSP4 路径下人口相差近1 倍。
+鉴于SSP1 和SSP5 路径下人口假设只有迁移
+率存在差异，而各省( 区/ 市) 迁移人口绝大多数
+为省间迁移；考虑迁入和迁出后中国总迁移人口接
+近于0，故SSP1 和SSP5 路径下中国人口预估结
+果几乎相同。
+图2  2010 年中国不同教育水平人口结构
+Fig. 2  China’s population according to different education 
+levels in the year of 2010
+图3  2010—2100 年5 种共享社会经济路径下的中国
+人口总数变化
+Fig. 3  Total population in China from 2010 to 2100 
+under the five SSPs
+2010 2020 2030 2040
+2050 2060 2070
+2080 2090 2100 年
+16
+14
+12
+10
+8
+6
+4
+2
+0
+人口/ 亿人
+SSP3
+SSP2
+SSP4
+SSP1
+SSP5
+到2050 年时，不同SSPs 路径下不仅人口总量
+相差较少，年龄结构也比较相似(图4)，存在的差
+异表现在新生人口数上，SSP2 和SSP3 分别为中
+等和高等生育率，较另外3 个低等生育率路径，新
+生人口数明显偏多。特别是在SSP3 路径，2050 年
+新生人口数将达到0.7 亿，比SSP1、SSP4、SSP5
+气候变化研究进展
+ 2017 年
+132
+www.climatechange.cn
+气
+候
+变
+化
+影
+响
+≥85
+80~84
+75~79
+70~74
+65~69
+60~64
+55~59
+50~54
+45~49
+40~44
+35~39
+30~34
+25~29
+20~24
+15~19
+10~14
+5~9
+0~4
+7500
+5000
+2500
+7500
+5000
+2500
+0
+人口/ 万人
+文盲
+小学
+中学
+大学
+男
+女
+年龄/ 岁
+路径下多出近1 倍。这个差异到2100 年，已使整
+个中国社会的年龄结构发生了根本性的改变（图4)。
+SSP1 和SSP5 路径下采取了低生育率、低死亡率
+的人口发展模式，同时，教育水平的迅速提高进一
+步降低了生育率水平，因此新生人口少，人均寿命
+高，到2100 年时人口结构呈现“倒三角形”，居
+民生活水平较高，但面临严重的人口老龄化和劳动
+力短缺的问题；SSP4 路径下人口同样呈“倒三角
+形”，由于其所面临的适应挑战，寿命受到限制，
+老龄人口较SSP1 和SSP5 路径偏少，这一路径下，
+教育水平低于SSP1 和SSP5 路径，但由于这3 种
+路径下人口基数小，低教育水平带来的生育率增加
+并没有给新生人口带来显著影响，相反的，低教育
+水平下人均寿命偏低，同时此路径下也面临较严重
+的老龄化问题，使死亡人口进一步增加，各年龄段
+人口都维持在较低的水平；SSP2 路径维持了当前
+的社会经济发展趋势，各年龄段人口分布均衡，劳
+动力充足；SSP3 路径下不追求社会经济发展目标，
+居民生活水平较差，生育率和死亡率都高于其他路
+径，到2100 年时是唯一人口呈现“金字塔型”的
+路径，新生人口数量多，达到近0.8 亿，教育水平低，
+抚养和教育的压力大，但劳动力充足，老龄化问题
+略轻于其他路径。
+从2100 年各省( 区/ 市) 人口数量( 图5) 来
+看，在SSP1、SSP2、SSP4 和SSP5 路径下，广东
+省依然是中国人口最多的省份，远高于其他各省(区
+/ 市)，其中SSP5 路径下人口可以达到1.29 亿人；
+而在SSP3 路径下，到2100 年广西可能成为人口
+最多的省份，达到1.13 亿人，广东仅位居第4 位。
+在SSP3 路径下，河北、安徽、河南、湖北、湖南、
+2 期 
+133
+姜彤，等：IPCC 共享社会经济路径下中国和分省人口变化预估
+图4  2050 年和2100 年5 种共享社会经济路径下中国不同年龄段、性别和不同教育水平的人口结构
+Fig. 4  China’s population patterns by age, sex and educational attainment under the five SSPs for 2050 and 2100
+www.climatechange.cn
+≥85
+80~84
+75~79
+70~74
+65~69
+60~64
+55~59
+50~54
+45~49
+40~44
+35~39
+30~34
+25~29
+20~24
+15~19
+10~14
+5~9
+0~4
+文盲
+小学
+中学
+大学
+男
+女
+9
+6
+3
+9
+6
+3
+0
+人口/10
+3 万人
+2050 年
+2100 年
+≥85
+80~84
+75~79
+70~74
+65~69
+60~64
+55~59
+50~54
+45~49
+40~44
+35~39
+30~34
+25~29
+20~24
+15~19
+10~14
+5~9
+0~4
+SSP1 和SSP5
+SSP2
+SSP3
+SSP4
+男
+女
+男
+女
+男
+女
+男
+女
+男
+女
+男
+女
+男
+女
+人口/10
+3 万人
+人口/10
+3 万人
+人口/10
+3 万人
+人口/10
+3 万人
+人口/10
+3 万人
+人口/10
+3 万人
+人口/10
+3 万人
+9
+6
+3
+9
+6
+3
+0
+9
+6
+3
+9
+6
+3
+0
+9
+6
+3
+9
+6
+3
+0
+9
+6
+3
+9
+6
+3
+0
+9
+6
+3
+9
+6
+3
+0
+9
+6
+3
+9
+6
+3
+0
+9
+6
+3
+9
+6
+3
+0
+年龄/ 岁
+年龄/ 岁
+图5  2100 年共享社会经济路径下中国31 个省（区/ 市）人口总数
+Fig. 5  China’s population at the 31 provinces (autonomous regions and municipalities) under the five SSPs in 2100
+北京
+天津
+河北
+山西
+0
+内蒙古
+辽宁
+吉林
+黑龙江
+上海
+江苏
+浙江
+安徽
+福建
+江西
+山东
+河南
+湖北
+湖南
+广东
+广西
+海南
+重庆
+四川
+贵州
+云南
+西藏
+陕西
+甘肃
+青海
+宁夏
+新疆
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+人口/ 万人
+SSP1
+SSP2
+SSP3
+SSP4
+SSP5
+广西、四川等省份人口数远高于其他路径下的人口
+数。这些省份有着共同的特征，即经济发展水平相
+对低，生育率较高，人口迁移以迁出为主。这类省
+份在SSP3 高排放低生活水平的发展模式下，放大
+了原本就较高的生育率，使新生人口急剧增加，同
+时此路径下区域差异严重，迁移人口减少，更多人
+失去了外出就业的机会，导致本地人口增加。另一
+类经济水平高，人口迁移以迁入为主的省（市)，
+如北京、上海、浙江、广东，在SSP5 路径下人口
+数量急剧增加，这一路径，特别强调以经济发展为
+导向，原本经济发达的省( 区/ 市) 为了实现发展
+目标，尽管自身生育率较低，但能够通过资本方式
+吸引人口由社会经济发展水平低的省( 区/ 市) 迁
+入，从而实现自身的劳动力扩张。江苏、福建等省
+份在SSP3 和SSP5 路径下均有较多人口，主要由
+于生育率与迁移率的改变带来了相似的人口变化，
+生育率低的路径下有迁入人口补充，而在生育率高
+的路径下迁移人口较少，使不同路径下人口没有显
+著差异。西藏由于本身人口数量相对少，人口基数
+小，且迁移人口少，不同社会经济发展路径对其影
+响较小，在各路径下都保持较少的人口数。
+3  结论与讨论
+本文将气候变化情景与中国人口问题相结合，
+考虑了中国特有的人口政策和迁移规律的影响，采
+用5 种不同的社会经济发展路径(SSPs)，综合考虑
+各地区间经济发展不均衡、全面二孩政策实施、城
+市化与户籍约束等对人口年龄结构和分省迁移的影
+响，率定了生育率、死亡率、迁移率、教育水平等
+关键参数，预估了2100 年前中国及31 个不同省份
+的人口数量、年龄、性别、教育水平等数据，主要
+气候变化研究进展
+ 2017 年
+134
+www.climatechange.cn
+气
+候
+变
+化
+影
+响
+2 期 
+135
+姜彤，等：IPCC 共享社会经济路径下中国和分省人口变化预估
+结论如下。
+(1)  不同的共享社会经济路径下，中国人口
+数量变化差异显著。5 种路径下人口在2030 年左
+右达到峰值，较2010 年的13.40 亿人增加0.48 亿
+~0.87 亿人；2035 年以前的人口数量变化受到当
+前人口惯性的影响，之后各种路径下人口变化特
+征逐渐呈现；到2050 年，人口最多的SSP3 与人
+口最少的SSP4 路径分别为14.10 亿人和12.88 亿
+人；到2100 年时，两种路径下分别为7.02 亿人和
+12.91 亿人，相差近1 倍。与IIASA 的预估结果相
+比[24]，各路径下人口变化趋势较为相似，但本文
+中人口达到峰值的时间较IIASA 结果晚5 年左右，
+不同路径下峰值人口也较IIASA 高约0.25 亿人，
+到2100 年5 种路径下中国总人口较IIASA 预估结
+果多1 亿~2 亿。这一差异与考虑二孩政策后对生
+育率的调整关系密切，文中考虑二孩政策后采用的
+中等路径总和生育率将稳定在1.8，略高于IIASA
+所采用的1.5，结果显示，二孩政策带来的生育率
+的增加会延长人口峰值出现的时间并增加峰值人
+口，但对人口变化的整体趋势没有影响。
+(2)  从年龄结构和教育水平上看，2050 年各种
+路径下中国人口年龄结构和教育水平差异较小；到
+2100 年，SSP1、SSP4 和SSP5 路径下人口总数少，
+人均寿命高，人口呈“倒三角形”，老龄人口比重
+较大，其中SSP1 和SSP5 路径下教育水平发达，
+几乎消除了文盲水平人口，大学以上人口占总人口
+的近60%，SSP4 路径下教育水平略低，居民大部
+分为中学水平，占总人口60% 以上；SSP2 路径下
+各年龄段人口比重较为均衡，中学和大学水平人口
+相近，总量占总人口的80% 以上；SSP3 路径下人
+口总量大，新生人口数量多，人均寿命较其他路径
+下偏低，人口呈“金字塔型”，抚养和教育的压力
+较大，但劳动力充足，老龄化问题较其他路径有所
+缓解。
+(3)  不同的SSP 路径下，各省( 区/ 市) 的人口
+分布呈现不同特征。到2100 年，SSP1、SSP2、SSP4
+和SSP5 路径下，中国人口最多的省份为广东，达到
+1.29 亿；SSP3 路径下，人口最多的省份为广西，
+达到1.13 亿。总体上，经济欠发达、生育率高、
+www.climatechange.cn
+人口迁移以迁出为主的省份在SSP3 路径下人口较
+多；经济水平高，人口迁移以迁入为主的省份在
+SSP5 路径下人口较多。选择发展水平较高的路径，
+可能导致人口进一步向社会经济水平发达的省份集
+中，这将在推动产业发展的同时带来交通拥挤、基
+础设施不足、资源紧张、污染增加等城市问题，发
+展较为落后的省份则可能面临更大的劳动力不足，
+带来更大的抚养儿童和赡养老人压力；在发展水平
+较低的路径下，生育率较高，人口迁移减少，经济
+落后的省份人口增加显著，教育与就业问题凸显，
+需要发展地区产业以缓解就业压力。
+随着巴黎会议将全球升温控制在2 ℃以内的共
+识和全面二孩政策的实施，中国人口政策及其调整
+备受关注。通过共享社会经济路径下中国人口的预
+估研究有利于将气候变化政策制定和人口问题相结
+合，为制定应对气候变化风险措施提供科学依据。
+尽管本文改进了IIASA 人口预估模型参数，但在
+二孩政策影响下的人口参数设定尚存在主观因素，
+需要在后续研究中完善。
+参考文献
+IPCC. Climate change 2013: the physical science basis [M]. Cambridge: 
+Cambridge University Press, 2013
+杜鹏, 翟振武, 陈卫. 中国人口老龄化百年发展趋势[J]. 人口研究, 
+2005, 29 (6): 90-93
+陈卫. 中国未来人口发展趋势: 2005—2050 年[J]. 人口研究, 2006, 
+30 (4): 93-95
+门可佩, 官琳琳, 尹逊震. 基于两种新型灰色模型的中国人口预测 
+[J]. 经济地理, 2007, 27 (6): 942-945
+王军, 王广州. 中国育龄人群的生育意愿及其影响估计[J]. 中国人口
+科学, 2013, 4: 26-35
+庄亚儿, 姜玉, 王志理, 等. 当前我国城乡居民的生育意愿: 基于
+2013 年全国生育意愿调查[J]. 人口研究, 2014, 38 (3): 3-13
+李新运, 徐瑶玉, 吴学锰. “单独二孩”政策对我国人口自然变动的
+影响预测[J]. 经济与管理评论, 2014, 6: 47-53
+齐美东, 戴梦宇, 郑焱焱. “全面放开二孩”政策对中国人口出生率
+的冲击与趋势探讨[J]. 中国人口·资源与环境, 2016, 26 (9): 1-10
+王广州. 生育政策调整研究中存在的问题与反思[J]. 中国人口科学, 
+2015, 29 (2): 2-15
+翟振武, 李龙, 陈佳鞠. 全面两孩政策对未来中国人口的影响[J]. 东
+岳论丛, 2016, 37 (2): 77-88
+国家人口发展战略研究课题组. 国家人口发展战略研究报告[M]. 北
+京: 中国人口出版社, 2007
+[1]
+[2]
+[4]
+[3]
+[5]
+[7]
+[8]
+[9]
+[11]
+[10]
+[6]
+气候变化研究进展
+ 2017 年
+136
+www.climatechange.cn
+气
+候
+变
+化
+影
+响
+[28]
+[27]
+[29]
+[30]
+[32]
+[31]
+[33]
+interactions in Mauritius [J]. Population, 1995, 50 (2): 525-526
+Cao G Y, Lutz W. China’s future urban and rural population by level of 
+education [R/OL]. 2016 [2016-01-20]. http://pure.iiasa.ac.at/7255
+Goujon A, Kc S. The past and future of human capital in South-east Asia [J]. 
+Asian Population Studies, 2008, 4 (1): 31-56
+Goujon A, Alkitkat H, Lutz W, et al. Population and human capital growth 
+in Egypt: projections for governorates to 2051 [R/OL]. 2007 [2016-10-28]. 
+http://pure.iiasa.ac.at/8445 
+陈功, 曹桂英, 刘玉博, 等. 北京市未来人口发展趋势预测: 利用多
+状态模型对未来人口、人力资本和城市化水平的预测分析[J]. 人口
+与发展, 2006, 12 (4): 29-41
+孟令国, 李超令, 胡广. 基于PDE 模型的中国人口结构预测研究[J]. 
+中国人口·资源与环境, 2014, 24 (2): 132-141
+程常青. 全面放开二孩政策下邯郸人口趋势研究: 基于PDE ( 人口‒
+发展‒ 环境分析) 模型[J]. 统计与管理, 2016 (8): 44-45
+蒋耒文, 任强. 中国人口、家庭户与住房需求预测研究[J]. 人口与发
+展, 2005, 11 (2): 20-29
+Basten S, Sobotka T, Zeman K. Future fertility in low fertility countries, 
+Vienna institute of demography working papers, No. 5/2013 [M/OL]. 
+Oxford: Oxford University Press, 2013 [2016-08-13]. http://hdl.handle.
+net/10419/97012
+Fuchs R, Goujon A. The future fertility of high fertility countries: a 
+model incorporating expert arguments [R/OL]. 2013 [2013-10-15]. 
+http://pure.iiasa.ac.at/10747
+United Nations. World population prospects: the 2010 revision [M]. 
+New York: Department of Economic and Social Affairs, Population 
+Division, 2011
+Garbero A, Sanderson W. Forecasting mortality convergence up to 2100 
+[M]. Oxford: Oxford University Press, 2013
+KC S, Potancokova M, Bauer R, et al. Summary of data, assumptions 
+and methods for new wittgenstein centre for demography and lobal 
+human capital (WIC) population projections by age, sex and level of 
+education for 195 countries to 2100 [R/OL]. 2013 [2013-01-15]. http://
+pure.iiasa.ac.at/10742
+Caselli G, Drefahl S, Luy M, et al. Future mortality in low-mortality 
+countries, Vienna institute of demography working papers, No. 06/2013 
+[M]. Oxford: Oxford University Press, 2013
+Abel G J. Estimating global migration flow tables using place of birth 
+data [J]. Demographic Research, 2013, 28 (2): 505-546
+[34]
+[35]
+[36]
+[38]
+[37]
+[39]
+[40]
+van Vuuren D, Edmonds J, Kainuma M, et al. The representative 
+concentration pathways: an overview [J]. Climatic Change, 2011, 109 (1): 
+5-31
+van Vuuren D, Riahi K, Moss R, et al. A proposal for a new scenario 
+framework to support research and assessment in different climate research 
+communities [J]. Global Environmental Change, 2012, 22 (1): 21-35
+张杰, 曹丽格, 李修仓, 等. IPCC AR5 中社会经济新情景(SSPs) 研
+究的最新进展[J]. 气候变化研究进展, 2013, 9 (3): 225-228
+曹丽格, 方玉, 姜彤, 等. IPCC 影响评估中的社会经济新情景(SSPs)
+进展[J]. 气候变化研究进展, 2012, 8 (1): 74-78
+Hegre H, Buhaug H, Calvin K V, et al. Forecasting civil conflict along 
+the shared socioeconomic pathways [J]. Environmental Research Letters, 
+2016, 11 (5): 054002
+Fujimori S, Hanasaki N, Masui T. Projections of industrial water 
+withdrawal under shared socioeconomic pathways and climate mitigation 
+scenarios [J]. Sustainability Science, 2016: 1-18
+Fujimori S, Kainuma M, Masui T, et al. The effectiveness of energy service 
+demand reduction: a scenario analysis of global climate change mitigation 
+[J]. Energy Policy, 2014, 75: 379-391
+Dellink R, Chateau J, Lanzi E, et al. Long-term economic growth 
+projections in the shared socioeconomic pathways [J]. Global 
+Environmental Change, 2015, 6 (4): 1-15
+Scherbov S, Lutz W, Sanderson W C. The uncertain timing of reaching 
+8 billion, peak world population, and other demographic milestones [J]. 
+Population & Development Review, 2011, 37 (3): 571-578
+Lutz W, KC S. Global human capital: integrating education and population 
+[J]. Science, 2011, 333 (6042): 587-592
+Jiang L. Internal consistency of demographic assumptions in the shared 
+socioeconomic pathways [J]. Population & Environment, 2014, 35 (3): 
+261-285
+KC S, Lutz W. The human core of the shared socioeconomic pathways: 
+population scenarios by age, sex and level of education for all countries to 
+2100 [J]. Global Environmental Change, 2014, 28 (1): 15-18
+KC S, Lutz W. Demographic scenarios by age, sex and education 
+corresponding to the SSP narratives [J]. Population & Environment, 2014, 
+35 (3): 243-260
+Rogers A. Introduction to multiregional mathematical demography [M]. 
+New York: John Wiley, 1975
+Lutz W. Population-development-environment: understanding their 
+[12]
+[13]
+[14]
+[15]
+[16]
+[17]
+[18]
+[19]
+[20]
+[21]
+[22]
+[23]
+[24]
+[25]
+[26]
+National and Provincial Population Projected to 2100 Under 
+the Shared Socioeconomic Pathways in China
+1 Collaborative Innovation Center on Forecast and Evaluation of Meteorological Disasters, School of Geography and Remote 
+Sensing, Nanjing University of Information Science & Technology, Nanjing 210044, China; 2 National Climate Center, China 
+Meteorological Administration, Beijing 100081, China; 3 State Key Laboratory of Desert and Oasis Ecology, Xinjiang Institute 
+of Ecology and Geography, Chinese Academy of Sciences, Urumqi 830011, China; 4 University of Chinese Academy of Sciences, 
+Beijing 100049, China; 5 School of Resources and Environmental Science, Hubei University, Wuhan 430062, China
+Abstract: This paper focused on the projection of national and provincial population in China, using Population-
+Development-Environment (PDE) model under the five shared socioeconomic pathways (SSPs). Population 
+parameters in the Model PDE were set up by using the 6th national census including fertility, mortality, migration 
+and education in China. the populations of 31 provinces including autonomous regions and municipalities in 
+China for 2011-2100 were projected according to present situation and Two-Child Policy.  The results show that 
+China’s population will raise up to 2035 and then decline until 2100 under five shared socioeconomic pathways. 
+Under SSP3, which facing high climate change challenges, peak population shown in 2035 will be 1.43 billion. 
+The minimum population will be found about 0.70 billion under SSP4. Under SSP1, SSP4 and SSP5, average 
+life expectancy will be relatively high, and population aging will be serious. More than 60% of population under 
+SSP1 and SSP5 account for higher educated population above university level. Under SSP2, the population at 
+different ages will be similar numbers. More new-born population and adequate labor will be encouraged with a 
+low education level under SSP3. By 2100, maximum numbers of population reaching 113 million will be found 
+in the Guangxi province under SSP3. Except SSP3, population in the Guangdong province will have 129 million 
+reaching to maximum numbers of population. A rapid population growth at provinces under SSP3 will attribute to 
+high fertility, low economic level and high population outflow, comparing with other pathways . 
+Key words: climate change; population projection; shared socioeconomic pathways (SSPs); national and 
+provincial; China
+Jiang Tong
+1, 2, Zhao Jing
+1 , Jing Cheng
+1, Cao Lige
+2, Wang Yanjun
+1, Sun Hemin
+1, 2, 
+Wang Anqian
+3, 4, Huang Jinlong
+3, 4, Su Buda
+1, 2, 3, Wang Run
+5
+2 期 
+137
+姜彤，等：IPCC 共享社会经济路径下中国和分省人口变化预估
+www.climatechange.cn
